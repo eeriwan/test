@@ -1,0 +1,3232 @@
+apiVersion: v1
+entries:
+  akka-cluster:
+  - created: 2018-12-13T10:25:59.553287855Z
+    description: Akka cluster demo
+    digest: 45f59dde890841c223e2e8453722aec84118f8718aaf980880c5a843c9868d81
+    icon: https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/Akka_toolkit_logo.svg/800px-Akka_toolkit_logo.svg.png
+    name: akka-cluster
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/akka-cluster-0.1.3.tgz
+    version: 0.1.3
+  - created: 2017-10-10T08:04:49.573163201Z
+    description: Akka cluster demo
+    digest: 4a050017cfea41b7ef7d34c6a41a429cc3797a5e7b45f7a33499f84a7f31c3ff
+    name: akka-cluster
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/akka-cluster-0.1.2.tgz
+    version: 0.1.2
+  - created: 2017-08-30T13:59:22.561573948Z
+    description: Akka cluster demo
+    digest: 5c3300da8fce37f956715a1d70f2d22f00cab813031a8f5011710b49226a07b1
+    name: akka-cluster
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/akka-cluster-0.1.1.tgz
+    version: 0.1.1
+  - created: 2017-08-28T14:51:02.19380004+03:00
+    description: Akka cluster demo
+    digest: 35ab6fce26f82c3a054cb42a46578dcad8c5927bcf3631c13be60263331ac1de
+    name: akka-cluster
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/akka-cluster-0.1.0.tgz
+    version: 0.1.0
+  autoscale:
+  - created: 2018-12-13T10:25:59.554335658Z
+    description: A Helm chart for autoscale based on Prometheus and Kubernetes annotations
+    digest: e75be165a6a100610f52c953cf02741105a8ec22200d23289ac8a35ba73a35d8
+    name: autoscale
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/autoscale-0.2.1.tgz
+    version: 0.2.1
+  - created: 2018-02-03T14:54:27.979978714-08:00
+    description: A Helm chart for autoscale based on Prometheus and Kubernetes annotations
+    digest: 9d7de8d4401e6eb1d0304beb42724fdeaf928a79924c5133f8885b02d083f588
+    name: autoscale
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/autoscale-0.2.0.tgz
+    version: 0.2.0
+  - created: 2018-02-03T14:54:27.979121112-08:00
+    description: A Helm chart for autoscale based on Prometheus and Kubernetes annotations
+    digest: d20ad9e3c8bacc9dfe165df773a5823b9bc91379c5696770fd2d1211beba9ef6
+    name: autoscale
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/autoscale-0.1.0.tgz
+    version: 0.1.0
+  bus-floating-data:
+  - created: 2018-12-13T10:25:59.556976379Z
+    description: Bus Floating Data
+    digest: 9769ff0b513d25328b87a90a4a6e40ac7cbe5d0348b1db252aa3580527a3b2b6
+    name: bus-floating-data
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/bus-floating-data-1.1.1.tgz
+    version: 1.1.1
+  - created: 2017-10-10T08:04:49.576031805Z
+    description: Bus Floating Data
+    digest: 251033678fe3a6b76895f18ff25910d5c77af1f9872bedc4ac266da19f70c295
+    name: bus-floating-data
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/bus-floating-data-1.1.0.tgz
+    version: 1.1.0
+  - created: 2017-10-04T20:49:23.672488234Z
+    description: Bus Floating Data
+    digest: c492e41297b5d02f903818306a021a39ffa42659f6e41580deac92bd46e6a85d
+    name: bus-floating-data
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/bus-floating-data-1.0.3.tgz
+    version: 1.0.3
+  - created: 2017-09-27T14:11:45.570827013Z
+    description: Bus Floating Data
+    digest: bbcd8067b0e7c7f9f8db65fb856231d934c6f0362a7fb1844c2657eebf947dd5
+    name: bus-floating-data
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/bus-floating-data-1.0.2.tgz
+    version: 1.0.2
+  - created: 2017-09-27T11:00:53.303514494Z
+    description: Bus Floating Data
+    digest: 336520957acecfde88ba0c318f14532d99ec8d3a5c4a85d25b9f4a4fc20ac5f5
+    name: bus-floating-data
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/bus-floating-data-1.0.1.tgz
+    version: 1.0.1
+  - created: 2017-09-27T08:56:25.289301069Z
+    description: Bus Floating Data
+    digest: 4433729f744315ee89771b9c4ea3580cbcb6d98930ffa639cfa6870d061242a4
+    name: bus-floating-data
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/bus-floating-data-1.0.0.tgz
+    version: 1.0.0
+  cassandra:
+  - appVersion: 3.11.0
+    created: 2018-12-13T10:25:59.557450109Z
+    description: A Helm chart for Kubernetes
+    digest: a9e22c88b8cc4b7244d55d4d976c2c18a115aaa228612c7fff19bdccfc56f5af
+    icon: https://mirantisworkloads.storage.googleapis.com/icons/cassandra.png
+    name: cassandra
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/cassandra-1.5.3.tgz
+    version: 1.5.3
+  - appVersion: 3.11.0
+    created: 2018-08-16T12:33:04.165677937Z
+    description: A Helm chart for Kubernetes
+    digest: 309ffaa55ab6990e0bcef3668734d26a6ab73ecce72ba9fc16a050869a1eb2bd
+    icon: https://upload.wikimedia.org/wikipedia/commons/5/5e/Cassandra_logo.svg
+    name: cassandra
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/cassandra-1.5.2.tgz
+    version: 1.5.2
+  - appVersion: 3.11.0
+    created: 2018-08-10T05:49:15.349796661Z
+    description: A Helm chart for Kubernetes
+    digest: 4d816e33d1b12ca61ba1bc4a784788b8a0ca537c20941b235b0739000c149474
+    icon: https://upload.wikimedia.org/wikipedia/commons/5/5e/Cassandra_logo.svg
+    name: cassandra
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/cassandra-1.5.1.tgz
+    version: 1.5.1
+  - appVersion: 3.11.0
+    created: 2018-02-03T14:54:27.986468709-08:00
+    description: A Helm chart for Kubernetes
+    digest: 4c48755f8a4c522e6fbb77eb3063299f1d9b2e0458dd2a014fe9cba0a2670cdf
+    icon: https://upload.wikimedia.org/wikipedia/commons/5/5e/Cassandra_logo.svg
+    name: cassandra
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/cassandra-1.5.0.tgz
+    version: 1.5.0
+  - appVersion: 3.11.0
+    created: 2018-02-03T14:54:27.985657853-08:00
+    description: A Helm chart for Kubernetes
+    digest: 473bb1e787bcffa3953196df53a6fbb73eacc9f9300b4ca245784fc5f7dbd0f4
+    icon: https://upload.wikimedia.org/wikipedia/commons/5/5e/Cassandra_logo.svg
+    name: cassandra
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/cassandra-1.4.0.tgz
+    version: 1.4.0
+  - created: 2017-10-04T20:49:23.672940044Z
+    description: A Helm chart for Kubernetes
+    digest: 23eec0f10f4598246c4b31724883b5f2dcde4aa5c30758fe3e7778ac18de64f8
+    name: cassandra
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/cassandra-1.3.4.tgz
+    version: 1.3.4
+  - created: 2017-09-11T19:39:10.755463236Z
+    description: A Helm chart for Kubernetes
+    digest: 3a60f8bba7a5869ff78cd3e86a2209e8a16f1ebe7e155834c7827d0381bdd2d5
+    name: cassandra
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/cassandra-1.3.3.tgz
+    version: 1.3.3
+  - created: 2017-09-08T13:02:15.23215922Z
+    description: A Helm chart for Kubernetes
+    digest: 8200357d2aa3bb2df651792ae33c1175310aae4f9637fbf009efb8e39ced0b3a
+    name: cassandra
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/cassandra-1.3.2.tgz
+    version: 1.3.2
+  - created: 2017-08-31T16:11:14.051463679Z
+    description: A Helm chart for Kubernetes
+    digest: bb11dbeb50e805249b494b2b72fdd46c2ec0ea5dc1566b87a4c2d76a4b6d2e25
+    name: cassandra
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/cassandra-1.3.1.tgz
+    version: 1.3.1
+  - created: 2017-08-30T13:59:22.564124646Z
+    description: A Helm chart for Kubernetes
+    digest: 5cebcababffab96f0e3dda4fac4f22a5134d9be968b59f8b7fd94489e105c274
+    name: cassandra
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/cassandra-1.3.0.tgz
+    version: 1.3.0
+  - created: 2017-08-11T14:06:56.078817914Z
+    description: A Helm chart for Kubernetes
+    digest: 9658c5eaf0f98d6f2ca9146ed575e941600da902e5809b003a33484c83dad022
+    name: cassandra
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/cassandra-1.2.3.tgz
+    version: 1.2.3
+  - created: 2017-08-10T08:38:19.143598903Z
+    description: A Helm chart for Kubernetes
+    digest: fb36871cab3870b5305a112ff4a0712caecf5f0342ca372b359f3b0e47505455
+    name: cassandra
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/cassandra-1.2.2.tgz
+    version: 1.2.2
+  - created: 2018-02-03T14:54:27.984756167-08:00
+    description: A Helm chart for Kubernetes
+    digest: b1b6815b5e68ea07c0cbfd965333b9c08ef2db9f1cf4012c0a0415b8f52752ef
+    name: cassandra
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/cassandra-1.2.1.tgz
+    version: 1.2.1
+  - created: 2018-02-03T14:54:27.984360418-08:00
+    description: A Helm chart for Kubernetes
+    digest: 47ca69081a286c4b91d6654b05119ee4f2153b0ddd44da623379d5cc9f080950
+    name: cassandra
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/cassandra-1.2.0.tgz
+    version: 1.2.0
+  - created: 2018-02-03T14:54:27.98394405-08:00
+    description: A Helm chart for Kubernetes
+    digest: 37f81182a10fc1b2741a75db9be66d13df8be73aef19e20ae0ae95f1864d04b1
+    name: cassandra
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/cassandra-1.1.1.tgz
+    version: 1.1.1
+  - created: 2017-06-14T10:32:40.744117812+03:00
+    description: A Helm chart for Kubernetes
+    digest: a17e5222201531e50d23869208614a23ea9dd7d98e6967d02ecea818d4f12da3
+    name: cassandra
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/cassandra-1.1.0.tgz
+    version: 1.1.0
+  - created: 2018-02-03T14:54:27.983541959-08:00
+    description: A Helm chart for Kubernetes
+    digest: e329bab234fdbb1c9c3ee6b5051257d13a0d8c7bdbac3c65e49e4964bd39332b
+    name: cassandra
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/cassandra-1.0.0.tgz
+    version: 1.0.0
+  clair:
+  - apiVersion: v1
+    appVersion: v2.0.1
+    created: 2018-12-13T10:25:59.558294034Z
+    description: A Helm chart for Clair - an open source project for the static analysis
+      of vulnerabilities in application containers
+    digest: 1b9989ddb41c8d2a99355ed202af083c1ec0e5cbba5d1b806fb5e586b0c04f89
+    icon: https://cloud.githubusercontent.com/assets/343539/21630811/c5081e5c-d202-11e6-92eb-919d5999c77a.png
+    name: clair
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/clair-0.1.4.tgz
+    version: 0.1.4
+  - apiVersion: v1
+    created: 2017-10-10T12:15:54.763137441Z
+    description: A Helm chart for Clair - an open source project for the static analysis
+      of vulnerabilities in application containers
+    digest: 263612cbdd26e296a90347a3715203a78cdbe4c7b171acbc52d515a451ef222c
+    name: clair
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/clair-0.1.3.tgz
+    version: 0.1.3
+  - apiVersion: v1
+    created: 2017-10-10T08:04:49.577256031Z
+    description: A Helm chart for Clair - an open source project for the static analysis
+      of vulnerabilities in application containers
+    digest: 82ccbe125e6c32d807e428c97c5a209d15eb79bace88d3d1255e2485ff0a208d
+    name: clair
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/clair-0.1.2.tgz
+    version: 0.1.2
+  - apiVersion: v1
+    created: 2017-09-12T07:18:23.250828361Z
+    description: A Helm chart for Clair - an open source project for the static analysis
+      of vulnerabilities in application containers
+    digest: 129b274c626c13536ce99cb202f0c6a0bdcc41bfd67980cecb09979d9d566465
+    name: clair
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/clair-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v1
+    created: 2018-02-03T14:54:27.987383912-08:00
+    description: A Helm chart for Clair - an open source project for the static analysis
+      of vulnerabilities in application containers
+    digest: d6c89123c5fdf40cd9558ba806ee3e08b9cedae16354c08ab2b6511e96303187
+    name: clair
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/clair-0.1.0.tgz
+    version: 0.1.0
+  elasticsearch:
+  - appVersion: 5.5.2
+    created: 2018-12-13T10:25:59.558989575Z
+    description: Flexible and powerful open source, distributed real-time search and
+      analytics engine.
+    digest: 2ec9decc36d079c9ebe436dce6473e37f7e227f7c7261c0cc18d7f76287a0748
+    icon: https://mirantisworkloads.storage.googleapis.com/icons/elasticsearch.png
+    name: elasticsearch
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/elasticsearch-1.4.3.tgz
+    version: 1.4.3
+  - appVersion: 5.5.2
+    created: 2018-08-16T14:46:01.095826352Z
+    description: Flexible and powerful open source, distributed real-time search and
+      analytics engine.
+    digest: c085635b7a12192656803a8602b9666d32e4c2714dd39111d3647a3a0a90967c
+    icon: https://mirantisworkloads.storage.googleapis.com/icons/elasticsearch.png
+    name: elasticsearch
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/elasticsearch-1.4.2.tgz
+    version: 1.4.2
+  - appVersion: 5.5.2
+    created: 2018-08-16T12:33:04.168525609Z
+    description: Flexible and powerful open source, distributed real-time search and
+      analytics engine.
+    digest: 1dd71a5e8392c230b5c3a9c9f3eb80af361e979de88ec0a21d982f71ca7a3304
+    icon: https://www.elastic.co/assets/blteb1c97719574938d/logo-elastic-elasticsearch-lt.svg
+    name: elasticsearch
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/elasticsearch-1.4.1.tgz
+    version: 1.4.1
+  - appVersion: 5.5.2
+    created: 2018-08-10T05:49:15.352390101Z
+    description: Flexible and powerful open source, distributed real-time search and
+      analytics engine.
+    digest: d955e437f08fe6b780eae4fb85737a0f891ee608a27c788681fbc0a9ac49d7c8
+    icon: http://awsmp-logos.s3.amazonaws.com/elasticsearch-logo.png
+    name: elasticsearch
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/elasticsearch-1.4.0.tgz
+    version: 1.4.0
+  - appVersion: 5.2.2
+    created: 2018-02-03T14:54:27.98932516-08:00
+    description: Flexible and powerful open source, distributed real-time search and
+      analytics engine.
+    digest: 71d41215aaf55a0fcdee99cbfe00ccf01efb8bb0da922c3ba4b4efd3957a7794
+    icon: http://awsmp-logos.s3.amazonaws.com/elasticsearch-logo.png
+    name: elasticsearch
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/elasticsearch-1.3.5.tgz
+    version: 1.3.5
+  - created: 2017-10-10T08:04:49.577814642Z
+    description: Flexible and powerful open source, distributed real-time search and
+      analytics engine.
+    digest: 2163b7a390f294f74b3a512a1bc42ac8bc9e1a888e25eb2b60c013a2dc53dc6c
+    name: elasticsearch
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/elasticsearch-1.3.4.tgz
+    version: 1.3.4
+  - created: 2017-09-12T07:18:23.251993078Z
+    description: Flexible and powerful open source, distributed real-time search and
+      analytics engine.
+    digest: 0c2af53ecf941c1930f40824f6dc49002bd2c106834a7d54a761d1b7d2d050f2
+    name: elasticsearch
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/elasticsearch-1.3.3.tgz
+    version: 1.3.3
+  - created: 2017-08-30T13:59:22.56642405Z
+    description: Flexible and powerful open source, distributed real-time search and
+      analytics engine.
+    digest: 2e90895dd7045aea94ad1ce21f3e0b79f01e48bea439c0d914ec7227cc485a29
+    name: elasticsearch
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/elasticsearch-1.3.2.tgz
+    version: 1.3.2
+  - created: 2017-08-28T14:51:02.19739897+03:00
+    description: Flexible and powerful open source, distributed real-time search and
+      analytics engine.
+    digest: e1dc4cfae4a69f708545b6e786ef7801fa8d08dacb7043a8739226279688287d
+    name: elasticsearch
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/elasticsearch-1.3.1.tgz
+    version: 1.3.1
+  - created: 2018-02-03T14:54:27.98895937-08:00
+    description: Flexible and powerful open source, distributed real-time search and
+      analytics engine.
+    digest: d4ca318bf95884f9c4cbb67ac43052c9939e38298ecc7cc42c84cefbfa4831e6
+    name: elasticsearch
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/elasticsearch-1.3.0.tgz
+    version: 1.3.0
+  - created: 2018-02-03T14:54:27.988614862-08:00
+    description: Flexible and powerful open source, distributed real-time search and
+      analytics engine.
+    digest: abc5bbb52da0efd98d4f627293fa157ab1b5f117951edb1f89b1c1a7789e34a6
+    name: elasticsearch
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/elasticsearch-1.1.1.tgz
+    version: 1.1.1
+  - created: 2017-06-19T16:29:54.018809565+03:00
+    description: Flexible and powerful open source, distributed real-time search and
+      analytics engine.
+    digest: 0f0f03135d757b521ea3fe166d3f7e564c92809228d4495efa7a1189bb363cd6
+    name: elasticsearch
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/elasticsearch-1.1.0.tgz
+    version: 1.1.0
+  - created: 2018-02-03T14:54:27.988280161-08:00
+    description: Flexible and powerful open source, distributed real-time search and
+      analytics engine.
+    digest: f62c57883eeb896d305865163d9320f5a1266d65e7998c411df61b3381c3d3ee
+    name: elasticsearch
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/elasticsearch-1.0.0.tgz
+    version: 1.0.0
+  - created: 2017-06-08T14:54:17.581031474+03:00
+    description: Flexible and powerful open source, distributed real-time search and
+      analytics engine.
+    digest: eda25ba6b4e3ee04dcaa70a71fad1f7be925a73a3636a3c0d426246788ad57e9
+    home: https://www.elastic.co/products/elasticsearch
+    icon: https://static-www.elastic.co/assets/blteb1c97719574938d/logo-elastic-elasticsearch-lt.svg
+    maintainers:
+    - email: prazumovsky@mirantis.com
+      name: Peter Razumovsky
+    name: elasticsearch
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/elasticsearch-0.1.0.tgz
+    version: 0.1.0
+  elasticsearch-curator:
+  - appVersion: 5.2.0
+    created: 2018-12-13T10:25:59.559960954Z
+    description: Curator engine closes elasticsearch indices
+    digest: bcbe24459add4e061cad3f488514111bb422d927ab3e0b91350153708daddc4f
+    icon: http://awsmp-logos.s3.amazonaws.com/elasticsearch-logo.png
+    name: elasticsearch-curator
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/elasticsearch-curator-0.1.2.tgz
+    version: 0.1.2
+  - created: 2017-10-10T08:04:49.578600625Z
+    description: Curator engine closes elasticsearch indices
+    digest: e646f258690bf642e0313a7520b000e37eb6539daa09943f0eef9cfcd7cbe3a5
+    name: elasticsearch-curator
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/elasticsearch-curator-0.1.1.tgz
+    version: 0.1.1
+  - created: 2017-09-29T16:12:21.071202339Z
+    description: Curator engine closes elasticsearch indices
+    digest: 4c1de08ca0c179339c849fc24700c9d8d8d495aa34e001467f9254c82fd2d0fe
+    name: elasticsearch-curator
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/elasticsearch-curator-0.1.0.tgz
+    version: 0.1.0
+  elk-cluster:
+  - created: 2018-12-13T10:25:59.561521035Z
+    description: Full elasticsearch, logstash and kibana cluster.
+    digest: 17c3cf0c8bfb0d7dda07ffd1b55e03c6fbc023c4d79b1f0b096cde59ab60eed1
+    icon: https://mirantisworkloads.storage.googleapis.com/icons/elk-cluster.png
+    name: elk-cluster
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/elk-cluster-1.1.4.tgz
+    version: 1.1.4
+  - created: 2018-08-16T12:33:04.173048385Z
+    description: Full elasticsearch, logstash and kibana cluster.
+    digest: 3d0eed8bc026c9edfba760db3225e41cea90e9cca2be3b6ad812e14bea5aed1d
+    icon: https://www.elastic.co/assets/bltb35193323e8f1770/logo-elastic-stack-lt.svg
+    name: elk-cluster
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/elk-cluster-1.1.3.tgz
+    version: 1.1.3
+  - created: 2018-08-10T05:49:15.356094163Z
+    description: Full elasticsearch, logstash and kibana cluster.
+    digest: 83c36151cea25471a8607080f9cd78fa4cb50d11769fe0d504d71002c75ebdd7
+    name: elk-cluster
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/elk-cluster-1.1.2.tgz
+    version: 1.1.2
+  - created: 2017-08-28T14:51:02.198736206+03:00
+    description: Full elasticsearch, logstash and kibana cluster.
+    digest: 72fbca6214ce4affe8084a517a4765b9674ab039d801adaf7748156a81e5ddfe
+    name: elk-cluster
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/elk-cluster-1.1.1.tgz
+    version: 1.1.1
+  - created: 2018-02-03T14:54:27.991974924-08:00
+    description: Full elasticsearch, logstash and kibana cluster.
+    digest: 738f6aaf0f530e270afda7c96c8640899d335245f0222d842ab134edf408ed03
+    name: elk-cluster
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/elk-cluster-1.1.0.tgz
+    version: 1.1.0
+  - created: 2018-02-03T14:54:27.990982658-08:00
+    description: Full elasticsearch, logstash and kibana cluster.
+    digest: a98dde49e2c1904d14152a11a9989b568a41a45cf7f137ba9e6f78481bb7c8be
+    name: elk-cluster
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/elk-cluster-1.0.0.tgz
+    version: 1.0.0
+  etcd:
+  - appVersion: 3.0.17
+    created: 2018-12-13T10:25:59.561939532Z
+    description: Distributed reliable key-value store for the most critical data of
+      a distributed system.
+    digest: b3bbe2e64091b4516100017726112bbea52f06d34468d53e124c76eeaf7c19ad
+    icon: https://raw.githubusercontent.com/coreos/etcd/master/logos/etcd-horizontal-color.png
+    name: etcd
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/etcd-0.2.1.tgz
+    version: 0.2.1
+  - created: 2017-10-10T08:04:49.580540007Z
+    description: Distributed reliable key-value store for the most critical data of
+      a distributed system.
+    digest: 4bfb2f3ad05aec40d1856acd51e968c5762d4039514c77021deae30ffb95715b
+    name: etcd
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/etcd-0.2.0.tgz
+    version: 0.2.0
+  - created: 2017-09-04T18:36:38.396899935Z
+    description: Distributed reliable key-value store for the most critical data of
+      a distributed system.
+    digest: 9572e141d7588c77ee8a39a765ed1fce5b0814220620dcca11e5d04518bea332
+    name: etcd
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/etcd-0.1.0.tgz
+    version: 0.1.0
+  fission:
+  - created: 2018-12-13T10:25:59.563502178Z
+    description: |
+      Fission is a fast serverless framework for Kubernetes with a focus on developer
+      productivity and high performance.
+    digest: 6817700d49e2cdfa62b14d232b2a61c41c35dbd51c56ab65d6aa174900a3fbe7
+    icon: https://mirantisworkloads.storage.googleapis.com/icons/fission.png
+    name: fission
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/fission-2.0.4.tgz
+    version: 2.0.4
+  - created: 2018-08-16T12:33:04.175665111Z
+    description: |
+      Fission is a fast serverless framework for Kubernetes with a focus on developer
+      productivity and high performance.
+    digest: 8ca81f4632162e85e8b1256a7c747da86d9aaeed0e8bad0fec9fd5bfa99bbac2
+    icon: https://platform9.com/wp-content/uploads/2017/01/Fission-logo-1.svg
+    name: fission
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/fission-2.0.3.tgz
+    version: 2.0.3
+  - created: 2018-08-10T05:49:15.358207693Z
+    description: |
+      Fission is a fast serverless framework for Kubernetes with a focus on developer
+      productivity and high performance.
+    digest: f1ea94c417270b25ea3bb0534c2321c633d86fc61752900b4b617556a4131192
+    icon: http://fission.io/img/fission-logo-whitebg.png
+    name: fission
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/fission-2.0.2.tgz
+    version: 2.0.2
+  - created: 2017-10-10T08:04:49.581663656Z
+    description: |
+      Fission is a fast serverless framework for Kubernetes with a focus on developer
+      productivity and high performance.
+    digest: 6e6a5aa2e27e21f8c1665f15655956ae23cf357b660853f9c01ba5183921f2b7
+    name: fission
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/fission-2.0.1.tgz
+    version: 2.0.1
+  - created: 2017-09-12T07:18:23.255709554Z
+    description: |
+      Fission is a fast serverless framework for Kubernetes with a focus on developer
+      productivity and high performance.
+    digest: 6dce171fae770626f30d9ad7ef6e5eb5ef9b36fe43f04d548fb94f22d059bb18
+    name: fission
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/fission-2.0.0.tgz
+    version: 2.0.0
+  - created: 2017-09-05T09:07:05.686344225Z
+    description: |
+      Fission is a fast serverless framework for Kubernetes with a focus on developer
+      productivity and high performance.
+    digest: fd22189ab25b021187106bbde136118c6baf34abf17201a32fded8df44e7d4ef
+    name: fission
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/fission-1.0.1.tgz
+    version: 1.0.1
+  - created: 2017-08-28T14:51:02.199949518+03:00
+    description: |
+      Fission is a fast serverless framework for Kubernetes with a focus on developer
+      productivity and high performance.
+    digest: a796c262ffb7eeb4b197621bdfe87b8ff04f40ea970c12aad6be7fa2fbf5a33c
+    name: fission
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/fission-1.0.0.tgz
+    version: 1.0.0
+  fluentd:
+  - appVersion: 0.14.20
+    created: 2018-12-13T10:25:59.56447535Z
+    description: |
+      Fluentd is an open source data collector for unified logging layer.
+    digest: 9502e5280298acce9c11288717daca301a5b40cf10b7863a1f2d67abb7ec81f5
+    icon: https://raw.githubusercontent.com/fluent/fluentd-docs/master/public/logo/Fluentd_square.png
+    name: fluentd
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/fluentd-1.0.6.tgz
+    version: 1.0.6
+  - appVersion: 0.14.20
+    created: 2018-02-03T14:54:27.994500499-08:00
+    description: |
+      Fluentd is an open source data collector for unified logging layer.
+    digest: e9ad1ee52aa0e2227ea649cbc89a6b50d1d150a368ff21e0873007df5b618e79
+    icon: https://raw.githubusercontent.com/fluent/fluentd-docs/master/public/logo/Fluentd_square.png
+    name: fluentd
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/fluentd-1.0.5.tgz
+    version: 1.0.5
+  - appVersion: 0.14.20
+    created: 2017-10-11T11:54:50.944398853Z
+    description: |
+      Fluentd is an open source data collector for unified logging layer.
+    digest: 139b444931fd304b410a1bce8f5b24a18b19364c5deea576a3d90fc01557efe7
+    icon: https://raw.githubusercontent.com/fluent/fluentd-docs/master/public/logo/Fluentd_square.png
+    name: fluentd
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/fluentd-1.0.4.tgz
+    version: 1.0.4
+  - created: 2017-10-10T08:04:49.582540225Z
+    description: |
+      Fluentd is an open source data collector for unified logging layer.
+    digest: f03d03fed4ef59a337e1b89f415b2110c37099ba42323770320d0e1db5589f4b
+    name: fluentd
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/fluentd-1.0.3.tgz
+    version: 1.0.3
+  - created: 2017-09-05T09:07:05.687068477Z
+    description: |
+      Fluentd is an open source data collector for unified logging layer.
+    digest: c024ebba14aedc3f1e5a7434f57abed930c58c08fd103e112b4f02f24fff2976
+    name: fluentd
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/fluentd-1.0.2.tgz
+    version: 1.0.2
+  - created: 2017-08-30T13:59:22.568871261Z
+    description: |
+      Fluentd is an open source data collector for unified logging layer.
+    digest: 59b812eb1139cff1a05fecd07cf966fd16640980c9cadfb9bf03ee83c36f3280
+    name: fluentd
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/fluentd-1.0.1.tgz
+    version: 1.0.1
+  - created: 2017-08-24T13:25:38.934291435Z
+    description: |
+      Fluentd is an open source data collector for unified logging layer.
+    digest: 37b54f109ff4a7554947cdb0e37013288bf3b46511cff811c4831ac78f50fc65
+    name: fluentd
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/fluentd-1.0.0.tgz
+    version: 1.0.0
+  gerrit:
+  - apiVersion: v1
+    appVersion: 2.14.4
+    created: 2018-12-13T10:25:59.564784063Z
+    description: A Helm chart for Gerrit
+    digest: a2aace04aed7aed665f3cf390ef1ddbfe4320982fccb179dbf84d0645eb4c6b0
+    icon: https://mirantisworkloads.storage.googleapis.com/icons/gerrit.png
+    name: gerrit
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/gerrit-0.2.2.tgz
+    version: 0.2.2
+  - apiVersion: v1
+    appVersion: 2.14.4
+    created: 2018-08-16T12:33:04.178066104Z
+    description: A Helm chart for Gerrit
+    digest: 013bb6c24e7c9d1e2ec47c90ce1cf0e06f9e2188d3fbdd6eb3f9c96e47e400fd
+    icon: https://upload.wikimedia.org/wikipedia/commons/4/4d/Gerrit_icon.svg
+    name: gerrit
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/gerrit-0.2.1.tgz
+    version: 0.2.1
+  - apiVersion: v1
+    appVersion: 2.14.4
+    created: 2018-08-10T05:49:15.360295579Z
+    description: A Helm chart for Gerrit
+    digest: 5220746f7e788adb92bca98cb07dab81fd79b4a7e84c9aaf9baf9dba60c31274
+    name: gerrit
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/gerrit-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v1
+    appVersion: 2.14.4
+    created: 2018-02-01T22:12:12.440085092Z
+    description: A Helm chart for Gerrit
+    digest: aa874c8fca70a9ec4934e327d2ba211af2673cc460897b5da6b5faf3457c6d5e
+    name: gerrit
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/gerrit-0.1.0.tgz
+    version: 0.1.0
+  grafana:
+  - created: 2018-12-13T10:25:59.567826288Z
+    description: The leading tool for querying and visualizing time series and metrics.
+    digest: 337c0a0df5e7944807ee9b0988f47ab7fd84b0f2e270baea054e540ef70995a2
+    icon: https://raw.githubusercontent.com/grafana/grafana/master/public/img/logo_transparent_400x.png
+    name: grafana
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/grafana-2.0.0.tgz
+    version: 2.0.0
+  - created: 2017-10-24T12:18:15.087386641Z
+    description: The leading tool for querying and visualizing time series and metrics.
+    digest: b7a2abf9e9830df633c3fded06cd35d524cd68ec2d148b555e64a6b14385bfbb
+    icon: https://raw.githubusercontent.com/grafana/grafana/master/public/img/logo_transparent_400x.png
+    name: grafana
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/grafana-1.0.4.tgz
+    version: 1.0.4
+  - created: 2018-02-03T14:54:28.00213981-08:00
+    description: The leading tool for querying and visualizing time series and metrics.
+    digest: d01c6262e0a293f0ac53f87d5a4f187b1e8f662bb89226b90b2e3956c19b442e
+    icon: https://raw.githubusercontent.com/grafana/grafana/master/public/img/logo_transparent_400x.png
+    name: grafana
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/grafana-1.0.3.tgz
+    version: 1.0.3
+  - created: 2017-10-06T14:24:04.584666401Z
+    description: The leading tool for querying and visualizing time series and metrics.
+    digest: b2afbcd3f43ace4c784b6e6bbaf1070035bfdda23f4173361e7063c66e1e4957
+    name: grafana
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/grafana-1.0.2.tgz
+    version: 1.0.2
+  - created: 2017-10-06T11:09:53.552169218Z
+    description: The leading tool for querying and visualizing time series and metrics.
+    digest: 9ff2569688fb67d1718c23051c45f8937d1e88a0f395049ee1a7599b47760eb1
+    name: grafana
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/grafana-1.0.1.tgz
+    version: 1.0.1
+  - created: 2017-09-28T14:47:42.066424364Z
+    description: The leading tool for querying and visualizing time series and metrics.
+    digest: 53587be26501b4d2873ec170e6ba106c915adc194dc0b8d7ee12296638ed2502
+    name: grafana
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/grafana-1.0.0.tgz
+    version: 1.0.0
+  - created: 2017-09-21T12:35:46.102293446Z
+    description: The leading tool for querying and visualizing time series and metrics.
+    digest: 84d282dbbfc4b69d800944dbfacb5492f5ea74833ecc483b812ca308ea757b58
+    name: grafana
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/grafana-0.9.3.tgz
+    version: 0.9.3
+  - created: 2017-09-19T16:26:07.182244873Z
+    description: The leading tool for querying and visualizing time series and metrics.
+    digest: d4783b56ce9b8a7a267a3002d31acbbaab05499f7683d5fd711de2676dd587ec
+    name: grafana
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/grafana-0.9.2.tgz
+    version: 0.9.2
+  - created: 2017-09-19T13:31:30.993385023Z
+    description: The leading tool for querying and visualizing time series and metrics.
+    digest: 8c9f773240a9a363831a686d1b4a6cfc6f1644a0282b611df516061bb2904a60
+    name: grafana
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/grafana-0.9.1.tgz
+    version: 0.9.1
+  - created: 2017-09-19T06:42:30.016514389Z
+    description: The leading tool for querying and visualizing time series and metrics.
+    digest: d2d70412efb6377518a988cb458fba32f6c6682ffd4c7ee85ae813b1c7dc0fa8
+    name: grafana
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/grafana-0.8.0.tgz
+    version: 0.8.0
+  - created: 2017-09-14T17:58:04.60226939Z
+    description: The leading tool for querying and visualizing time series and metrics.
+    digest: 7fc5c8f2b46c8f81d8a1205c1631846c0c1b8b62bad18ce9e33775a0b4548a24
+    name: grafana
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/grafana-0.7.2.tgz
+    version: 0.7.2
+  - created: 2017-09-14T13:33:42.714694058Z
+    description: The leading tool for querying and visualizing time series and metrics.
+    digest: 14d5de3bc83503a3b4524dcb75b0edc3b56e8818590e483f7489368a64d338ba
+    name: grafana
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/grafana-0.7.1.tgz
+    version: 0.7.1
+  - created: 2017-09-14T11:18:37.579422854Z
+    description: The leading tool for querying and visualizing time series and metrics.
+    digest: 49adf25ceb1b02e6ee32e1a5b4436a4c29592a259b526098e5fd3f807ddb7125
+    name: grafana
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/grafana-0.7.0.tgz
+    version: 0.7.0
+  - created: 2017-09-12T13:18:51.579060066Z
+    description: The leading tool for querying and visualizing time series and metrics.
+    digest: 996c35a88661d2acd2a9d3518d498ca6ff9a4fe92770d93149ae7ef98d89f4c0
+    name: grafana
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/grafana-0.6.0.tgz
+    version: 0.6.0
+  - created: 2017-08-17T11:33:28.4279302Z
+    description: The leading tool for querying and visualizing time series and metrics.
+    digest: 9a2cefe8351873413933aac0088727e32ee9f326d6f4bd5566bb3ff08b411181
+    name: grafana
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/grafana-0.5.0.tgz
+    version: 0.5.0
+  - created: 2017-08-28T14:51:02.203888977+03:00
+    description: The leading tool for querying and visualizing time series and metrics.
+    digest: 33deda573e865b8e5ad022be238623fd607135ead9802eae8efae979c7efc3d3
+    name: grafana
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/grafana-0.4.1.tgz
+    version: 0.4.1
+  - created: 2018-02-03T14:54:28.00000833-08:00
+    description: The leading tool for querying and visualizing time series and metrics.
+    digest: 38e9c4560fac8a9f22a55fe98de11622515c89d18e5210c5e89749c124ccb070
+    name: grafana
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/grafana-0.4.0.tgz
+    version: 0.4.0
+  - created: 2018-02-03T14:54:27.999074313-08:00
+    description: The leading tool for querying and visualizing time series and metrics.
+    digest: e338b0b9bccce7e2803cdca723054348fcf780158bd916a108c4ecb4b1cbe109
+    name: grafana
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/grafana-0.3.0.tgz
+    version: 0.3.0
+  - created: 2018-02-03T14:54:27.998100705-08:00
+    description: The leading tool for querying and visualizing time series and metrics.
+    digest: 3973bab51b16e8250076bcde1f6e6392c880c1d5a62cd89bd68a91adec69cb3e
+    name: grafana
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/grafana-0.2.1.tgz
+    version: 0.2.1
+  - created: 2017-06-19T16:29:54.021228603+03:00
+    description: The leading tool for querying and visualizing time series and metrics.
+    digest: b04b14dc430d464fa952682f108f287f40c0af7a9302325883e7d43bb7eaebb0
+    name: grafana
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/grafana-0.2.0.tgz
+    version: 0.2.0
+  - created: 2018-02-03T14:54:27.997109371-08:00
+    description: The leading tool for querying and visualizing time series and metrics.
+    digest: a306b60a56aa72a90d463106eb8494f7f68c530835b1004650adb7cfbe415968
+    name: grafana
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/grafana-0.1.0.tgz
+    version: 0.1.0
+  graphite:
+  - appVersion: 1.0.2-2
+    created: 2018-12-13T10:25:59.568242378Z
+    description: |
+      Graphite is an enterprise-ready monitoring tool that runs equally well on cheap hardware or Cloud infrastructure.
+    digest: 4e1368db31a17f98b9d9c870254c3cea5be23eeca1c5a2fd4da50829a861b726
+    icon: https://raw.githubusercontent.com/graphite-project/graphite-project.github.io/master/img/apple-touch-icon-144x144.png
+    name: graphite
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/graphite-0.0.1.tgz
+    version: 0.0.1
+  halyard:
+  - apiVersion: v1
+    created: 2018-12-13T10:25:59.569519394Z
+    description: A Helm chart for Halyard
+    digest: 0c7f47df611c18f7d256373eebbd52176e80c82c37995dfe45a7bbc49ee2caaa
+    name: halyard
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/halyard-1.0.0.tgz
+    version: 1.0.0
+  - apiVersion: v1
+    created: 2018-08-06T06:55:00.633317484Z
+    description: A Helm chart for Halyard
+    digest: ae2d1da63cbf6a9462db95406b0c407a0a20d4df85e11bb73c6ee3fe7344f2d4
+    name: halyard
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/halyard-0.4.0.tgz
+    version: 0.4.0
+  - apiVersion: v1
+    created: 2018-04-02T05:25:04.224196016Z
+    description: A Helm chart for Halyard
+    digest: f173fce8382cbd7959175cdda9d27a340b0df0b549b54d53ca91cb05fd994289
+    name: halyard
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/halyard-0.3.0.tgz
+    version: 0.3.0
+  - apiVersion: v1
+    created: 2018-03-28T10:25:35.042641349Z
+    description: A Helm chart for Halyard
+    digest: c7631a85ae29dfb65835a964aea75ab348191dd4c73c818409bbd80ade5bb172
+    name: halyard
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/halyard-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v1
+    created: 2018-03-28T01:12:50.940791567Z
+    description: A Helm chart for Halyard
+    digest: 80df096dc9a99d0d501f8ce39bf91c44f66f67f3dc8906ddd429f323089a04e1
+    name: halyard
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/halyard-0.1.0.tgz
+    version: 0.1.0
+  hdfs:
+  - appVersion: 2.8.1
+    created: 2018-12-13T10:25:59.569957162Z
+    description: Hadoop Distributed File System (HDFS)
+    digest: 180975e7ba1b56d86d3c5dd35634b35d609aa488f75f062ccad24b90ccc2c620
+    icon: https://hadoop.apache.org/docs/r2.7.1/hadoop-project-dist/hadoop-hdfs/images/hdfs-logo.jpg
+    name: hdfs
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/hdfs-2.3.0.tgz
+    version: 2.3.0
+  - appVersion: 2.8.1
+    created: 2018-02-03T14:54:28.00618553-08:00
+    description: Hadoop Distributed File System (HDFS)
+    digest: a06222baeb7dd28c07e3914af5512f017047598d67428900edeaeff1fa8196b0
+    icon: https://hadoop.apache.org/docs/r2.7.1/hadoop-project-dist/hadoop-hdfs/images/hdfs-logo.jpg
+    name: hdfs
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/hdfs-2.2.1.tgz
+    version: 2.2.1
+  - created: 2017-09-12T07:18:23.260520333Z
+    description: Hadoop Distributed File System (HDFS)
+    digest: d7377892fa042586f12f0c1a74ff5a8cd279157a9e2ef894760a49db769a2420
+    name: hdfs
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/hdfs-2.2.0.tgz
+    version: 2.2.0
+  - created: 2017-09-11T18:00:39.84898385Z
+    description: Hadoop Distributed File System (HDFS)
+    digest: 30f2d3801bdd2a528914826e14d669d080ea743376e9c590c06bf421d3f3807f
+    name: hdfs
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/hdfs-2.1.2.tgz
+    version: 2.1.2
+  - created: 2017-08-30T13:59:22.571437708Z
+    description: Hadoop Distributed File System (HDFS)
+    digest: 51a2c3c00bebc0ec05ee8c04d34b9e3a5f42b498823082061b7d887fd8e99d16
+    name: hdfs
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/hdfs-2.1.1.tgz
+    version: 2.1.1
+  - created: 2017-08-28T14:51:02.205381348+03:00
+    description: Hadoop Distributed File System (HDFS)
+    digest: 2afbb22a95d2e6ed85a044286a73923ce87255eee626d64c3e9dc1b17ad7b5ee
+    name: hdfs
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/hdfs-2.1.0.tgz
+    version: 2.1.0
+  - created: 2018-02-03T14:54:28.00583991-08:00
+    description: Hadoop Distributed File System (HDFS)
+    digest: f79205d042bfca6cfddf4701e97f85c51aa350bf2cd600b495c73d0a2dcfd80b
+    name: hdfs
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/hdfs-1.2.0.tgz
+    version: 1.2.0
+  - created: 2018-02-03T14:54:28.005566828-08:00
+    description: Hadoop Distributed File System (HDFS)
+    digest: d0c0d00612c75716e93ff346442c7fcb6ab097235c2f6a03956c5a1274b0a37a
+    name: hdfs
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/hdfs-1.1.2.tgz
+    version: 1.1.2
+  - created: 2017-06-19T16:29:54.021514602+03:00
+    description: Hadoop Distributed File System (HDFS)
+    digest: eebd783fad1b8af71ca3b762452c5249db9becd4a1dd97a87a9bd14ea5a3b46c
+    name: hdfs
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/hdfs-1.1.1.tgz
+    version: 1.1.1
+  - created: 2017-06-15T16:54:21.064445666+03:00
+    description: Hadoop Distributed File System (HDFS)
+    digest: 58bfe608b6ffebf99bc958ef81398b8608fb8ac1404fbae1f754add196bb2b6c
+    name: hdfs
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/hdfs-1.1.0.tgz
+    version: 1.1.0
+  - created: 2018-02-03T14:54:28.005295776-08:00
+    description: Hadoop Distributed File System (HDFS)
+    digest: d3549c735460228a14d167f811127e53209ab5c3eb29a02ac1b0f2f67af02d79
+    name: hdfs
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/hdfs-1.0.0.tgz
+    version: 1.0.0
+  - created: 2017-06-08T14:54:17.584516644+03:00
+    description: Hadoop Distributed File System (HDFS) hosted by Kubernetes.
+    digest: b50b26e60cc3d23ba1d0653480841545320a05bf5449f3607d3133e7c225401e
+    name: hdfs
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/hdfs-0.1.tgz
+    version: "0.1"
+  influxdb:
+  - appVersion: 1.3.4
+    created: 2018-12-13T10:25:59.570371539Z
+    description: |
+      InfluxDB is an open source time series database for recording metrics, events, and analytics.
+    digest: 5cb254a18dc1271ddb0d0fd80f897fcf9c8cb610b4dfc244cda62f7cea6883d8
+    icon: https://mirantisworkloads.storage.googleapis.com/icons/influxdb.png
+    name: influxdb
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/influxdb-1.3.5.tgz
+    version: 1.3.5
+  - appVersion: 1.3.4
+    created: 2018-08-16T12:33:04.190409404Z
+    description: |
+      InfluxDB is an open source time series database for recording metrics, events, and analytics.
+    digest: 07c0bb1ee37f5a7dd3a43c6c6cceeb650047432cb42ea0fffcac57fbbdf79c9d
+    icon: https://upload.wikimedia.org/wikipedia/commons/c/c6/Influxdb_logo.svg
+    name: influxdb
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/influxdb-1.3.4.tgz
+    version: 1.3.4
+  - appVersion: 1.3.4
+    created: 2018-08-10T05:49:15.372463495Z
+    description: |
+      InfluxDB is an open source time series database for recording metrics, events, and analytics.
+    digest: d506fd9c632e3f4cb86d8cc77bd8e489f398206772af70b6bb034eda506b19e2
+    icon: https://camo.githubusercontent.com/a8d74ab0f47636875878a2ad6343744a85a0f498/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f632f63362f496e666c757864625f6c6f676f2e737667
+    name: influxdb
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/influxdb-1.3.3.tgz
+    version: 1.3.3
+  - appVersion: 1.3.4
+    created: 2017-10-11T17:28:40.771767447Z
+    description: |
+      InfluxDB is an open source time series database for recording metrics, events, and analytics.
+    digest: 41d23f741884b8e74a6d325f2ba38dfac64589b7687670af19dc696ec880da8a
+    icon: https://camo.githubusercontent.com/a8d74ab0f47636875878a2ad6343744a85a0f498/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f632f63362f496e666c757864625f6c6f676f2e737667
+    name: influxdb
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/influxdb-1.3.2.tgz
+    version: 1.3.2
+  - created: 2017-10-10T08:04:49.589054304Z
+    description: |
+      InfluxDB is an open source time series database for recording metrics, events, and analytics.
+    digest: c1c3dc7136a9d43938a85b843256ac431379bc6d4a28a4da7d699e77f15d6575
+    name: influxdb
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/influxdb-1.3.1.tgz
+    version: 1.3.1
+  - created: 2017-09-29T11:13:02.618428131Z
+    description: |
+      InfluxDB is an open source time series database for recording metrics, events, and analytics.
+    digest: 95ac854a5f8d926773d0fa2765e3901cc62118547a5cf0b9a68ad24d08fc83d5
+    name: influxdb
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/influxdb-1.3.0.tgz
+    version: 1.3.0
+  - created: 2017-09-08T13:02:15.239828638Z
+    description: |
+      InfluxDB is an open source time series database for recording metrics, events, and analytics.
+    digest: 1f90bfebdefe81f0c2cc724d9e3181151fcf53bb7e3564f7b2954b7c3e4b6e87
+    name: influxdb
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/influxdb-1.2.0.tgz
+    version: 1.2.0
+  - created: 2017-09-05T14:04:29.763138806Z
+    description: |
+      InfluxDB is an open source time series database for recording metrics, events, and analytics.
+    digest: 2bc552ff61b6e6b67f7d3f9f4b60df1a6a93d5a578d2b24b41b63836b0d00445
+    name: influxdb
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/influxdb-1.1.0.tgz
+    version: 1.1.0
+  - created: 2017-09-04T15:02:59.652894Z
+    description: |
+      InfluxDB is an open source time series database for recording metrics, events, and analytics.
+    digest: 37b0d5b40d80cd0f615a59c62eae4a91188b046a6667ee0411c899721e0082a6
+    name: influxdb
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/influxdb-1.0.0.tgz
+    version: 1.0.0
+  iot-gen:
+  - created: 2018-12-13T10:25:59.571259148Z
+    description: A Helm chart for IOT-gen - IOT events generation to Apache Kafka
+    digest: d6a44839cb0dbfeafe17cb12627022ffbdba984ef203a35b6440a02639e13a83
+    name: iot-gen
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/iot-gen-0.2.2.tgz
+    version: 0.2.2
+  - created: 2017-10-10T12:15:54.773739676Z
+    description: A Helm chart for IOT-gen - IOT events generation to Apache Kafka
+    digest: 39adfaf49959f1b96d058eea858cddf94431240e2e13e3beddecf11d07e1a085
+    name: iot-gen
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/iot-gen-0.2.1.tgz
+    version: 0.2.1
+  - created: 2018-02-03T14:54:28.008557549-08:00
+    description: A Helm chart for IOT-gen - IOT events generation to Apache Kafka
+    digest: 75b915202ac7ee7278f5c8ce14fb8722c2b5f80184be9166f6f3e6615832f7b8
+    name: iot-gen
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/iot-gen-0.2.0.tgz
+    version: 0.2.0
+  - created: 2018-02-03T14:54:28.007965977-08:00
+    description: A Helm chart for IOT-gen - IOT events generation to Apache Kafka
+    digest: 3a5491bc334eb12e8db289f4804d46bfe7a7c917dfa2aa2081505d3b9e3bae45
+    name: iot-gen
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/iot-gen-0.1.1.tgz
+    version: 0.1.1
+  - created: 2018-02-03T14:54:28.007380081-08:00
+    description: A Helm chart for IOT-gen - IOT events generation to Apache Kafka
+    digest: f0d503a77843f39f489963ce5c7846fac3281711956dd9d819f9de6d1d8453d3
+    name: iot-gen
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/iot-gen-0.1.0.tgz
+    version: 0.1.0
+  istio:
+  - appVersion: 0.1.6
+    created: 2018-12-13T10:25:59.572983766Z
+    description: Istio Helm chart for Kubernetes
+    digest: d135989ade1eecfe422da169ae35b47c49e91c9e717166741b956042a9efb780
+    icon: https://mirantisworkloads.storage.googleapis.com/icons/istio.png
+    name: istio
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/istio-1.1.2.tgz
+    version: 1.1.2
+  - appVersion: 0.1.6
+    created: 2018-08-16T12:33:04.194274917Z
+    description: Istio Helm chart for Kubernetes
+    digest: e049c8fec92df0ace2e1b00cdc138e5c1d1db7c33ab8c9a4510c8c9f32b41a3f
+    icon: https://istio.io/img/istio-blue-logo.svg
+    name: istio
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/istio-1.1.1.tgz
+    version: 1.1.1
+  - appVersion: 0.1.6
+    created: 2018-08-10T05:49:15.376130458Z
+    description: Istio Helm chart for Kubernetes
+    digest: bfb652fa8f4ad75ad2161f1b5e12dbd750ce9304120345c0abdfd7a895170121
+    icon: https://raw.githubusercontent.com/istio/istio.github.io/master/favicons/mstile-150x150.png
+    name: istio
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/istio-1.1.0.tgz
+    version: 1.1.0
+  - created: 2017-09-12T11:23:06.52050295Z
+    description: Istio Helm chart for Kubernetes
+    digest: 371d2e749b840e9296a21faf69c75b89df7e3476f1593323fa8c479da7237b2d
+    name: istio
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/istio-1.0.0.tgz
+    version: 1.0.0
+  jenkins:
+  - appVersion: "2.113"
+    created: 2018-12-13T10:25:59.573636655Z
+    description: Open source continuous integration server.
+    digest: f1a91dd875e69f7ac2178d05d8c31307ecf7eb651b766d14bd0af62d84cbf5cf
+    icon: https://wiki.jenkins-ci.org/download/attachments/2916393/logo.png
+    name: jenkins
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/jenkins-2.8.1.tgz
+    version: 2.8.1
+  - appVersion: "2.104"
+    created: 2018-04-10T08:24:34.22293692Z
+    description: Open source continuous integration server.
+    digest: df570fa1f51b94f8a75118b0a688a8d1ae4ee724d0a760578bc5364598b413eb
+    icon: https://wiki.jenkins-ci.org/download/attachments/2916393/logo.png
+    name: jenkins
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/jenkins-2.8.0.tgz
+    version: 2.8.0
+  - appVersion: "2.104"
+    created: 2018-03-27T09:55:01.765291674Z
+    description: Open source continuous integration server.
+    digest: 8d41dec4c543b5addedefb9c26d9002faa25a3af23ba655358b258663a8e211a
+    icon: https://wiki.jenkins-ci.org/download/attachments/2916393/logo.png
+    name: jenkins
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/jenkins-2.7.0.tgz
+    version: 2.7.0
+  - appVersion: "2.104"
+    created: 2018-02-05T15:19:08.979349252Z
+    description: Open source continuous integration server.
+    digest: ac1741bbf28bc41db1c63bb0ef82e3fd305a2a52000fab6545d91bd6e41d2e6c
+    icon: https://wiki.jenkins-ci.org/download/attachments/2916393/logo.png
+    name: jenkins
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/jenkins-2.6.1.tgz
+    version: 2.6.1
+  - appVersion: "2.87"
+    created: 2018-02-02T09:56:18.997292222Z
+    description: Open source continuous integration server.
+    digest: 7aab02f337b0a65d6d25625bc4b177564b1ffa3fc363ce94d437e99973abb919
+    icon: https://wiki.jenkins-ci.org/download/attachments/2916393/logo.png
+    name: jenkins
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/jenkins-2.5.2.tgz
+    version: 2.5.2
+  - appVersion: "2.87"
+    created: 2018-02-01T22:12:12.448728472Z
+    description: Open source continuous integration server.
+    digest: 276c3ad0939e377779afacb67b547f514a95d3665e911bde47a91832fd599d8c
+    icon: https://wiki.jenkins-ci.org/download/attachments/2916393/logo.png
+    name: jenkins
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/jenkins-2.5.1.tgz
+    version: 2.5.1
+  - appVersion: "2.87"
+    created: 2017-11-03T16:50:36.963849473Z
+    description: Open source continuous integration server.
+    digest: 73c5fe25ef1eaf8426046855360ea25b85874c6e4519abcfba750b2395d82236
+    icon: https://wiki.jenkins-ci.org/download/attachments/2916393/logo.png
+    name: jenkins
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/jenkins-2.5.0.tgz
+    version: 2.5.0
+  - appVersion: "2.87"
+    created: 2017-11-03T12:24:11.912482455Z
+    description: Open source continuous integration server.
+    digest: 92b1c93fb8b3ac767459fe6f2d831b670877650cb1f17b480e0b3770f4a05557
+    icon: https://wiki.jenkins-ci.org/download/attachments/2916393/logo.png
+    name: jenkins
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/jenkins-2.4.0.tgz
+    version: 2.4.0
+  - appVersion: "2.67"
+    created: 2017-11-03T07:33:02.357488953Z
+    description: Open source continuous integration server.
+    digest: 1c019e54069f1d4b58a021ad3a27b1f9f1d3b2967e7cd702187e07fe9854d3e8
+    icon: https://wiki.jenkins-ci.org/download/attachments/2916393/logo.png
+    name: jenkins
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/jenkins-2.1.0.tgz
+    version: 2.1.0
+  - appVersion: "2.67"
+    created: 2018-02-03T14:54:28.010666395-08:00
+    description: Open source continuous integration server.
+    digest: 9658f3d28025dd26b06b100977fcb4db58cba525afcb4eee44e912ea4e8c284c
+    icon: https://wiki.jenkins-ci.org/download/attachments/2916393/logo.png
+    name: jenkins
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/jenkins-2.0.5.tgz
+    version: 2.0.5
+  - created: 2017-10-10T08:04:49.59105873Z
+    description: Open source continuous integration server.
+    digest: 553971a42089b325342c9d2ac0ee4b880a589a500c315ff2dffe486d330a0e85
+    name: jenkins
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/jenkins-2.0.4.tgz
+    version: 2.0.4
+  - created: 2017-09-12T07:18:23.264072188Z
+    description: Open source continuous integration server.
+    digest: 1ebff12bc404019e2a00d9224a0f3a4267d7337d24ce988413dc8f58d0a0b09c
+    name: jenkins
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/jenkins-2.0.3.tgz
+    version: 2.0.3
+  - created: 2017-08-30T13:59:22.574054735Z
+    description: Open source continuous integration server.
+    digest: d80ea89c80ef3d454c477b693a6214cdc949be8f7fddc122cd0ba4454b1aa897
+    name: jenkins
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/jenkins-2.0.2.tgz
+    version: 2.0.2
+  - created: 2017-08-15T18:22:39.911090251Z
+    description: Open source continuous integration server.
+    digest: fcdb5ce53e5244bc22eb06044c4068ef16ab4990c01ebbbcf430a597ecd1079a
+    name: jenkins
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/jenkins-2.0.1.tgz
+    version: 2.0.1
+  - created: 2017-08-28T14:51:02.20786292+03:00
+    description: Open source continuous integration server.
+    digest: 6a799b80012a4e7a15c23ca4750494c042db34800abde871fef5c5daaa264788
+    name: jenkins
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/jenkins-2.0.0.tgz
+    version: 2.0.0
+  - created: 2017-08-14T10:27:00.080789725Z
+    description: Open source continuous integration server.
+    digest: 7157b39a9352c67a1202acad8e63fe60c49e49d06898f9e0db3051b13eb06f1f
+    name: jenkins
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/jenkins-1.0.0.tgz
+    version: 1.0.0
+  kafka:
+  - appVersion: 0.11.0.0
+    created: 2018-12-13T10:25:59.574466298Z
+    description: Apache Kafka is publish-subscribe messaging rethought as a distributed
+      commit log.
+    digest: bede45b3a265db55247f48f46a2aebdff452c28708a8dcce16c07894983aa358
+    icon: https://kafka.apache.org/images/logo.png
+    name: kafka
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/kafka-1.6.0.tgz
+    version: 1.6.0
+  - appVersion: 0.11.0.0
+    created: 2018-02-03T14:54:28.013361063-08:00
+    description: Apache Kafka is publish-subscribe messaging rethought as a distributed
+      commit log.
+    digest: 6c0f4e3776beca76c1c565933ae5295303a5e32916d5de86a7b64cac725fe9b9
+    icon: https://kafka.apache.org/images/logo.png
+    name: kafka
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/kafka-1.5.2.tgz
+    version: 1.5.2
+  - appVersion: 0.11.0.0
+    created: 2017-10-11T13:18:49.292658515Z
+    description: Apache Kafka is publish-subscribe messaging rethought as a distributed
+      commit log.
+    digest: cf0a0d13d4fb4e37a494baf175a619e8bf884c9fcf831521d7f7c24009bbe82b
+    icon: https://kafka.apache.org/images/logo.png
+    name: kafka
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/kafka-1.5.1.tgz
+    version: 1.5.1
+  - created: 2017-08-30T13:59:22.574871597Z
+    description: Apache Kafka is publish-subscribe messaging rethought as a distributed
+      commit log.
+    digest: f79496d8a75177d3c78e5f9a265e5636e02d8a57e4bc32b93e8d2bd77e2003d9
+    name: kafka
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/kafka-1.5.0.tgz
+    version: 1.5.0
+  - created: 2017-08-28T14:51:02.209662871+03:00
+    description: Apache Kafka is publish-subscribe messaging rethought as a distributed
+      commit log.
+    digest: c996903fbd6a8c0142adb743042df98e47f0cc27596f45b7ad2523aaca0fe1ba
+    name: kafka
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/kafka-1.4.0.tgz
+    version: 1.4.0
+  - created: 2017-08-28T14:51:02.209208397+03:00
+    description: Apache Kafka is publish-subscribe messaging rethought as a distributed
+      commit log.
+    digest: 12d98643e0cfed1b1b19ba2a29d5e3ddaa9dbd0cd25a6087a5acf33abbac1136
+    name: kafka
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/kafka-1.3.1.tgz
+    version: 1.3.1
+  - created: 2018-02-03T14:54:28.0128221-08:00
+    description: Apache Kafka is publish-subscribe messaging rethought as a distributed
+      commit log.
+    digest: 324f7908d68c69d122f79937d7be7a4b8a07665c34546219eb8cec5c27abedaa
+    name: kafka
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/kafka-1.3.0.tgz
+    version: 1.3.0
+  - created: 2018-02-03T14:54:28.012345324-08:00
+    description: Apache Kafka is publish-subscribe messaging rethought as a distributed
+      commit log.
+    digest: 0c80b7aee5de2af06a996f9caf4a08735d4451dddcd3007611566cb326f2a064
+    name: kafka
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/kafka-1.2.0.tgz
+    version: 1.2.0
+  - created: 2018-02-03T14:54:28.011957781-08:00
+    description: Apache Kafka is publish-subscribe messaging rethought as a distributed
+      commit log.
+    digest: 0e2a171e1ffb51f75f3ed26e7594121363eff6bd51c96ed0d837603f69aa403d
+    name: kafka
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/kafka-1.1.0.tgz
+    version: 1.1.0
+  - created: 2018-02-03T14:54:28.011490105-08:00
+    description: Apache Kafka is publish-subscribe messaging rethought as a distributed
+      commit log.
+    digest: a6291f09a70ca967f831cf2c549331ce2d6c27c0339236a41e8316d9cae1a8fc
+    name: kafka
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/kafka-1.0.0.tgz
+    version: 1.0.0
+  - created: 2017-06-08T14:54:17.586127441+03:00
+    description: Apache Kafka is publish-subscribe messaging rethought as a distributed
+      commit log.
+    digest: 403a41da8805853aa5936c0f085f492b9a0316e5460f0ac8c88c05f9f8abf99b
+    home: https://kafka.apache.org/
+    icon: https://kafka.apache.org/images/logo.png
+    maintainers:
+    - email: apavlov@mirantis.com
+      name: Andrey Pavlov
+    name: kafka
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/kafka-0.1.0.tgz
+    version: 0.1.0
+  kafka-stack:
+  - apiVersion: v1
+    created: 2018-12-13T10:25:59.576399879Z
+    description: A Helm chart for Kubernetes
+    digest: b093bf1a275072023ab6dd02c3b6197e50aed2a72145a87fe022c0daa0d9b89d
+    name: kafka-stack
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/kafka-stack-1.2.1.tgz
+    version: 1.2.1
+  - apiVersion: v1
+    created: 2017-10-10T12:15:54.777373523Z
+    description: A Helm chart for Kubernetes
+    digest: 19a7b11ca18ff5d7cdb436ca2431098565fa665aa193830c29ed0ab82654f026
+    name: kafka-stack
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/kafka-stack-1.2.0.tgz
+    version: 1.2.0
+  kibana:
+  - appVersion: 5.2.2
+    created: 2018-12-13T10:25:59.576853905Z
+    description: |
+      Kibana is an open source analytics and visualization platform
+      designed to work with Elasticsearch.
+    digest: 8d98d50dafab0d5a2e6c85b6385d7cd907152cd59e508886cb4e9da9f2c1cb0c
+    icon: https://mirantisworkloads.storage.googleapis.com/icons/kibana.png
+    name: kibana
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/kibana-1.2.5.tgz
+    version: 1.2.5
+  - appVersion: 5.2.2
+    created: 2018-08-16T12:33:04.198522688Z
+    description: |
+      Kibana is an open source analytics and visualization platform
+      designed to work with Elasticsearch.
+    digest: 51eb8aa21b33ea9d21cc2c7d14cb9cd9211551441e5558bd2e63fed2e91c9406
+    icon: https://www.elastic.co/assets/bltf11265439e44d327/logo-elastic-kibana-lt.svg
+    name: kibana
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/kibana-1.2.4.tgz
+    version: 1.2.4
+  - appVersion: 5.2.2
+    created: 2018-08-10T05:49:15.379619121Z
+    description: |
+      Kibana is an open source analytics and visualization platform
+      designed to work with Elasticsearch.
+    digest: c63e73b1a82ba48b5eabcd702b64a0bb4e56af2c1dbdc215c93933e669e26fee
+    icon: https://raw.githubusercontent.com/blacktop/docker-kibana-alpine/master/kibana-logo.png
+    name: kibana
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/kibana-1.2.3.tgz
+    version: 1.2.3
+  - created: 2017-10-10T08:04:49.593302387Z
+    description: |
+      Kibana is an open source analytics and visualization platform
+      designed to work with Elasticsearch.
+    digest: 8e640c7ceb3c3e10fba341d177ec3c7f2bd932f0a7959dadec827f1041a42793
+    name: kibana
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/kibana-1.2.2.tgz
+    version: 1.2.2
+  - created: 2017-08-30T13:59:22.576485158Z
+    description: |
+      Kibana is an open source analytics and visualization platform
+      designed to work with Elasticsearch.
+    digest: 740328f8b861c6af0f14f85b5c4ff12198224e54fc447b9e50f1eff91655bebf
+    name: kibana
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/kibana-1.2.1.tgz
+    version: 1.2.1
+  - created: 2018-02-03T14:54:28.01626471-08:00
+    description: |
+      Kibana is an open source analytics and visualization platform
+      designed to work with Elasticsearch.
+    digest: 8f85ddbc75af3aac333bc69d828dbcc07f3ea01e10a7ce58e05bdb286d119a34
+    name: kibana
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/kibana-1.2.0.tgz
+    version: 1.2.0
+  - created: 2018-02-03T14:54:28.015921957-08:00
+    description: |
+      Kibana is an open source analytics and visualization platform
+      designed to work with Elasticsearch.
+    digest: 54ad0e646327e703896679e21fc0fe785a8c2f64f2ad99652133b76739565666
+    name: kibana
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/kibana-1.1.1.tgz
+    version: 1.1.1
+  - created: 2017-06-19T16:29:54.022863315+03:00
+    description: |
+      Kibana is an open source analytics and visualization platform
+      designed to work with Elasticsearch.
+    digest: 5ba70b7f97de9aaedfcb16caf26c700b00b935208835dff9e57277e83cdbf0b5
+    name: kibana
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/kibana-1.1.0.tgz
+    version: 1.1.0
+  - created: 2018-02-03T14:54:28.015599378-08:00
+    description: |
+      Kibana is an open source analytics and visualization platform
+      designed to work with Elasticsearch.
+    digest: 0aea3e6ceae013a02777d921bd5419ad93bda8a7527571f3f74eac32ce038f9a
+    name: kibana
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/kibana-1.0.0.tgz
+    version: 1.0.0
+  logstash:
+  - appVersion: 5.2.2
+    created: 2018-12-13T10:25:59.577269198Z
+    description: |
+      Logstash is an open source, server-side data processing pipeline
+      that ingests data from a multitude of sources simultaneously,
+      transforms it, and then sends it to your favorite "stash".
+    digest: 0564bf57a5b00ff93159b104d490922b9cb23565c20b63266b7e55df736fa07f
+    icon: https://mirantisworkloads.storage.googleapis.com/icons/logstash.png
+    name: logstash
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/logstash-1.9.4.tgz
+    version: 1.9.4
+  - appVersion: 5.2.2
+    created: 2018-08-16T12:33:04.199074863Z
+    description: |
+      Logstash is an open source, server-side data processing pipeline
+      that ingests data from a multitude of sources simultaneously,
+      transforms it, and then sends it to your favorite "stash".
+    digest: dea348894575b305cb2de33c55ab83a7cf2905ebd9b5cf0bff5b54f1691986fd
+    icon: https://www.elastic.co/assets/blt86e4472872eed314/logo-elastic-logstash-lt.svg
+    name: logstash
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/logstash-1.9.3.tgz
+    version: 1.9.3
+  - appVersion: 5.2.2
+    created: 2018-08-10T05:49:15.38020827Z
+    description: |
+      Logstash is an open source, server-side data processing pipeline
+      that ingests data from a multitude of sources simultaneously,
+      transforms it, and then sends it to your favorite "stash".
+    digest: 85ac568a4178689346acd9bbf99e89c99a7452437e9c812b71c527341058f875
+    icon: https://gauthierc.github.io/SlideElasticBeats/images/Logstash-Logos-Color-H.png
+    name: logstash
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/logstash-1.9.2.tgz
+    version: 1.9.2
+  - created: 2017-10-10T08:04:49.593693185Z
+    description: |
+      Logstash is an open source, server-side data processing pipeline
+      that ingests data from a multitude of sources simultaneously,
+      transforms it, and then sends it to your favorite "stash".
+    digest: 199890fda4921c8645964e08c39429f11a9d55e44a84e7ada455ed2b1004c76c
+    name: logstash
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/logstash-1.9.1.tgz
+    version: 1.9.1
+  - created: 2017-08-30T13:59:22.576895437Z
+    description: |
+      Logstash is an open source, server-side data processing pipeline
+      that ingests data from a multitude of sources simultaneously,
+      transforms it, and then sends it to your favorite "stash".
+    digest: 13a8488c55e466167b44224d9016c2b9c9285c24731958d25705e31917d78020
+    name: logstash
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/logstash-1.9.0.tgz
+    version: 1.9.0
+  - created: 2018-02-03T14:54:28.017523882-08:00
+    description: |
+      Logstash is an open source, server-side data processing pipeline
+      that ingests data from a multitude of sources simultaneously,
+      transforms it, and then sends it to your favorite "stash".
+    digest: 524e9d74c29512a7f2ef6a753c8ea8d3c73961a36334c7966ef8dfad09daa44e
+    name: logstash
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/logstash-1.8.0.tgz
+    version: 1.8.0
+  - created: 2018-02-03T14:54:28.017255311-08:00
+    description: |
+      Logstash is an open source, server-side data processing pipeline
+      that ingests data from a multitude of sources simultaneously,
+      transforms it, and then sends it to your favorite "stash".
+    digest: 78b6e8bc08ad4489585f3a073c8808010984e5f18742a63b71b6f82acfb29c3f
+    name: logstash
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/logstash-1.3.0.tgz
+    version: 1.3.0
+  - created: 2018-02-03T14:54:28.017018707-08:00
+    description: |
+      Logstash is an open source, server-side data processing pipeline
+      that ingests data from a multitude of sources simultaneously,
+      transforms it, and then sends it to your favorite "stash".
+    digest: 7b01d8453e328bbb35f8cec0e61754a826d088f6ed478c84665932d3e95c0f4c
+    name: logstash
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/logstash-1.1.0.tgz
+    version: 1.1.0
+  - created: 2018-02-03T14:54:28.016776554-08:00
+    description: |
+      Logstash is an open source, server-side data processing pipeline
+      that ingests data from a multitude of sources simultaneously,
+      transforms it, and then sends it to your favorite "stash".
+    digest: 97ce49604e90a399ce5a52c09ae7d8106088970e3d64fb05faf9ada57ec44640
+    name: logstash
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/logstash-1.0.0.tgz
+    version: 1.0.0
+  mariadb:
+  - created: 2018-02-03T14:54:28.019376528-08:00
+    description: Fast, reliable, scalable, and easy to use open-source relational
+      database system. MariaDB Server is intended for mission-critical, heavy-load
+      production systems as well as for embedding into mass-deployed software.
+    digest: 31ffa50ea1609ab13128ff92fd133991489675ba720a6e6d5ecc2f9ee686b723
+    name: mariadb
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/mariadb-1.4.0.tgz
+    version: 1.4.0
+  - appVersion: 10.1.23
+    created: 2018-12-13T10:25:59.577830854Z
+    description: Fast, reliable, scalable, and easy to use open-source relational
+      database system. MariaDB Server is intended for mission-critical, heavy-load
+      production systems as well as for embedding into mass-deployed software.
+    digest: a1102379287adeddc57cd58542321cae0b63722aa907a5f4038ff0bae2fa2c90
+    icon: https://bitnami.com/assets/stacks/mariadb/img/mariadb-stack-220x234.png
+    name: mariadb
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/mariadb-1.2.6.tgz
+    version: 1.2.6
+  - created: 2017-10-10T08:04:49.59422489Z
+    description: Fast, reliable, scalable, and easy to use open-source relational
+      database system. MariaDB Server is intended for mission-critical, heavy-load
+      production systems as well as for embedding into mass-deployed software.
+    digest: f4eb40f1123574566f627cbcd91452626c40297ee8707e70fc6f30e96d3f6aa0
+    name: mariadb
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/mariadb-1.2.5.tgz
+    version: 1.2.5
+  - created: 2017-08-30T13:59:22.577497194Z
+    description: Fast, reliable, scalable, and easy to use open-source relational
+      database system. MariaDB Server is intended for mission-critical, heavy-load
+      production systems as well as for embedding into mass-deployed software.
+    digest: 25cf6620cb9e7abeb2ccb4de6c77ab204bb483e63e3216116022cd77a46fe933
+    name: mariadb
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/mariadb-1.2.4.tgz
+    version: 1.2.4
+  - created: 2017-08-28T14:51:02.212658545+03:00
+    description: Fast, reliable, scalable, and easy to use open-source relational
+      database system. MariaDB Server is intended for mission-critical, heavy-load
+      production systems as well as for embedding into mass-deployed software.
+    digest: 3586ca0e2286af22db1ea48b47a82455f425b7e1085131a2a7e0abe3a1dace09
+    name: mariadb
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/mariadb-1.2.3.tgz
+    version: 1.2.3
+  - created: 2018-02-03T14:54:28.01859542-08:00
+    description: Fast, reliable, scalable, and easy to use open-source relational
+      database system. MariaDB Server is intended for mission-critical, heavy-load
+      production systems as well as for embedding into mass-deployed software.
+    digest: 34e165daf6982928561f39a4324338ed51828c0f2f95ec8ae3f1731ada07230f
+    name: mariadb
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/mariadb-1.2.2.tgz
+    version: 1.2.2
+  - created: 2018-02-03T14:54:28.018215353-08:00
+    description: Fast, reliable, scalable, and easy to use open-source relational
+      database system. MariaDB Server is intended for mission-critical, heavy-load
+      production systems as well as for embedding into mass-deployed software.
+    digest: 5a5756fbaf5b194a080c4b3168bafd58b4ccfda9794748ff1421fdd0ba66eecb
+    name: mariadb
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/mariadb-1.1.1.tgz
+    version: 1.1.1
+  - created: 2017-06-19T16:29:54.023468975+03:00
+    description: Fast, reliable, scalable, and easy to use open-source relational
+      database system. MariaDB Server is intended for mission-critical, heavy-load
+      production systems as well as for embedding into mass-deployed software.
+    digest: 19b2511ab5c30bdd74aa10f0ac01a8ae8fceb5c7cb7e6ded3d75258f100756af
+    name: mariadb
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/mariadb-1.1.0.tgz
+    version: 1.1.0
+  - created: 2017-06-08T14:54:17.588352946+03:00
+    description: Fast, reliable, scalable, and easy to use open-source relational
+      database system. MariaDB Server is intended for mission-critical, heavy-load
+      production systems as well as for embedding into mass-deployed software.
+    digest: 9b14e8327b5dab4a43534eeaafc1189d8499d626b26f60f8aff481685953bdd0
+    name: mariadb
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/mariadb-1.0.0.tgz
+    version: 1.0.0
+  minio:
+  - created: 2018-12-13T10:25:59.578315526Z
+    description: Distributed object storage server built for cloud applications and
+      devops.
+    digest: 1c5efb4583640ffc0cfef4fb6d9957d6d8d5bbbb72da388f7c54b4aa7e84c1a8
+    icon: https://www.minio.io/img/logo_160x160.png
+    name: minio
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/minio-1.2.0.tgz
+    version: 1.2.0
+  - created: 2018-05-23T15:20:52.7731805-07:00
+    description: Distributed object storage server built for cloud applications and
+      devops.
+    digest: b01db3e9df98b1a8157db5238488e9d01d523d5a8e8a4a1e79e244a104603eb5
+    icon: https://www.minio.io/img/logo_160x160.png
+    name: minio
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/minio-1.1.1.tgz
+    version: 1.1.1
+  - created: 2017-10-10T08:04:49.594659549Z
+    description: Distributed object storage server built for cloud applications and
+      devops.
+    digest: 037ed7fcc843d416a1703f89db4b7baa889e6e41fdfacf1032792e3df8b57ea1
+    name: minio
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/minio-1.1.0.tgz
+    version: 1.1.0
+  mongodb:
+  - apiVersion: v1
+    appVersion: "3.4"
+    created: 2018-12-13T10:25:59.578802872Z
+    description: A Helm chart for Kubernetes
+    digest: f9d73299befeff7c6a187efa2b513fada9985dfb64fc43d5d13a47e4836e4726
+    icon: https://bitnami.com/assets/stacks/mongodb/img/mongodb-stack-220x234.png
+    name: mongodb
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/mongodb-0.7.1.tgz
+    version: 0.7.1
+  - apiVersion: v1
+    created: 2017-10-10T12:15:54.779521423Z
+    description: A Helm chart for Kubernetes
+    digest: 69aa3f7eda221dfcb6731bee6cbbb46909793adf39c200ede0038d97c7db7d76
+    name: mongodb
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/mongodb-0.7.0.tgz
+    version: 0.7.0
+  - apiVersion: v1
+    created: 2017-09-04T12:06:51.709881064Z
+    description: A Helm chart for Kubernetes
+    digest: 81f1ce5e93283d88b2eb08ab22fdbec00ade206052c8c5ec0c7b4cd8f9ed001d
+    name: mongodb
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/mongodb-0.6.1.tgz
+    version: 0.6.1
+  - apiVersion: v1
+    created: 2017-08-28T14:51:02.213584763+03:00
+    description: A Helm chart for Kubernetes
+    digest: 193e0ffbaba6a8887bd590fb5d42d81344e7407a94ddf95257753bf0e4df4026
+    name: mongodb
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/mongodb-0.6.0.tgz
+    version: 0.6.0
+  - apiVersion: v1
+    created: 2018-02-03T14:54:28.020299406-08:00
+    description: A Helm chart for Kubernetes
+    digest: 94aff5055a3bc6647ee65ae444609fd5ac9f5f0033646da260eb25997a52ed08
+    name: mongodb
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/mongodb-0.5.0.tgz
+    version: 0.5.0
+  - apiVersion: v1
+    created: 2018-02-03T14:54:28.020042379-08:00
+    description: A Helm chart for Kubernetes
+    digest: 6912673c45de09b700953176950e38932be26619d015dab6c97bed8afc233996
+    name: mongodb
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/mongodb-0.2.1.tgz
+    version: 0.2.1
+  - apiVersion: v1
+    created: 2017-06-19T16:29:54.023715916+03:00
+    description: A Helm chart for Kubernetes
+    digest: e4d43e926a510b1fec5a9e14f32a38ecdbfaa4089e13e4bc32c1b18d33f713c5
+    name: mongodb
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/mongodb-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v1
+    created: 2018-02-03T14:54:28.019824506-08:00
+    description: A Helm chart for Kubernetes
+    digest: fd3b64869b5c1f9b9b04e4486a27fe8c3b47b8b8e2088157603f8402c0ee78fd
+    name: mongodb
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/mongodb-0.1.0.tgz
+    version: 0.1.0
+  monocular:
+  - appVersion: v0.4.0
+    created: 2018-12-13T10:25:59.580013992Z
+    description: Monocular is a search and discovery front end for Helm Charts Repositories.
+    digest: 9d610cb34b91493de07ff52f6880aff6473f2206531991a8e2067bced85f54a6
+    icon: https://github.com/helm/monocular/blob/v0.4.0/src/ui/src/assets/images/apple-touch-icon-152x152.png
+    name: monocular
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/monocular-0.1.3.tgz
+    version: 0.1.3
+  - appVersion: v0.4.0
+    created: 2018-08-10T05:49:15.383438231Z
+    description: Monocular is a search and discovery front end for Helm Charts Repositories.
+    digest: 5c0fc510403e6a1e7126b3aba05dfa5aaa3b82cd0ff01f781ad6d34bd42eb5a3
+    name: monocular
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/monocular-0.1.2.tgz
+    version: 0.1.2
+  - appVersion: v0.4.0
+    created: 2017-10-14T09:22:24.91670717Z
+    description: Monocular is a search and discovery front end for Helm Charts Repositories.
+    digest: d938ffd187b49b63abe01d759ae945241d424f11b27b114b6d94e51df8068ad1
+    name: monocular
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/monocular-0.1.1.tgz
+    version: 0.1.1
+  - appVersion: v0.4.0
+    created: 2017-10-12T15:09:13.049943642Z
+    description: Monocular is a search and discovery front end for Helm Charts Repositories.
+    digest: 6182ae8ede39278f88cdbc353f7b5a03de88975076d3ecd04c15f208e46b5827
+    name: monocular
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/monocular-0.1.0.tgz
+    version: 0.1.0
+  postgresql:
+  - appVersion: 9.6.2
+    created: 2018-12-13T10:25:59.580512522Z
+    description: Object-relational database management system (ORDBMS) with an emphasis
+      on extensibility and on standards-compliance.
+    digest: a0f20a5e9c903c6edd28f24259fb6eea7c20bebf1552d33fb3f9160141b8040d
+    icon: https://www.postgresql.org/media/img/about/press/elephant.png
+    name: postgresql
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/postgresql-1.2.3.tgz
+    version: 1.2.3
+  - created: 2017-10-10T08:04:49.595737328Z
+    description: Object-relational database management system (ORDBMS) with an emphasis
+      on extensibility and on standards-compliance.
+    digest: cbd2103dfab4412beb3aa538574785d817c50db2c72b672d64262a2e4f461206
+    name: postgresql
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/postgresql-1.2.2.tgz
+    version: 1.2.2
+  - created: 2017-08-28T14:51:02.214185921+03:00
+    description: Object-relational database management system (ORDBMS) with an emphasis
+      on extensibility and on standards-compliance.
+    digest: 1c994013bd27c9e17ecdbeb4a816919f276b1a37fe9c37f59bd3e3174ad112ef
+    name: postgresql
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/postgresql-1.2.1.tgz
+    version: 1.2.1
+  - created: 2018-02-03T14:54:28.021933043-08:00
+    description: Object-relational database management system (ORDBMS) with an emphasis
+      on extensibility and on standards-compliance.
+    digest: 308d9963c2ca7615c01ed764afe67329cf1dac82c8f12fc16011d80ecd8a57d5
+    name: postgresql
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/postgresql-1.2.0.tgz
+    version: 1.2.0
+  - created: 2018-02-03T14:54:28.021633336-08:00
+    description: Object-relational database management system (ORDBMS) with an emphasis
+      on extensibility and on standards-compliance.
+    digest: 09ab5974ff6040b13d30f9dc3fd1a9a642162d98b5af168b18b5cb71c7a6c784
+    name: postgresql
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/postgresql-1.1.1.tgz
+    version: 1.1.1
+  - created: 2017-06-19T16:29:54.024051133+03:00
+    description: Object-relational database management system (ORDBMS) with an emphasis
+      on extensibility and on standards-compliance.
+    digest: 3d4d13185f86c691c5c3042f6ef4766174b285cb50ee940344985b8443f0323a
+    name: postgresql
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/postgresql-1.1.0.tgz
+    version: 1.1.0
+  - created: 2017-06-08T14:54:17.588954495+03:00
+    description: Object-relational database management system (ORDBMS) with an emphasis
+      on extensibility and on standards-compliance.
+    digest: 503454ceb9c970829b5135ae5ae9b69430ba1b91f09f96b1e556159fac46cc33
+    name: postgresql
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/postgresql-1.0.0.tgz
+    version: 1.0.0
+  prometheus:
+  - appVersion: v1.8.0
+    created: 2018-12-13T10:25:59.581270448Z
+    description: Prometheus is a monitoring system and time series database.
+    digest: 00e41b60c464c1e579adcf04ccbf06ac054ce8b323017334ab800757b474e221
+    icon: https://raw.githubusercontent.com/prometheus/prometheus.github.io/master/assets/prometheus_logo-cb55bb5c346.png
+    name: prometheus
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/prometheus-1.0.0.tgz
+    version: 1.0.0
+  - appVersion: v1.8.0
+    created: 2018-02-03T14:54:28.025740326-08:00
+    description: Prometheus is a monitoring system and time series database.
+    digest: f588314cc50daa01d6e4a316c0c287f922ac2cde73343f8cc3ef37736cf18d1d
+    icon: https://raw.githubusercontent.com/prometheus/prometheus.github.io/master/assets/prometheus_logo-cb55bb5c346.png
+    name: prometheus
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/prometheus-0.7.2.tgz
+    version: 0.7.2
+  - appVersion: v1.8.0
+    created: 2018-02-03T14:54:28.025292296-08:00
+    description: Prometheus is a monitoring system and time series database.
+    digest: fed8515b82c7de5da150833b1fe4433ee4bbb2c63858d25743e65ee1a6ae8b32
+    icon: https://raw.githubusercontent.com/prometheus/prometheus.github.io/master/assets/prometheus_logo-cb55bb5c346.png
+    name: prometheus
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/prometheus-0.7.1.tgz
+    version: 0.7.1
+  - created: 2017-10-10T08:04:49.596692283Z
+    description: Prometheus is a monitoring system and time series database.
+    digest: db4d17f04d2cebe21bde63b6014023fac4cfb95dcbe54481803e7d1804732266
+    name: prometheus
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/prometheus-0.7.0.tgz
+    version: 0.7.0
+  - created: 2017-10-06T14:24:04.596051242Z
+    description: Prometheus is a monitoring system and time series database.
+    digest: 85ce05ea25f09aa13a3830fc5c387c9502c74bdf8870f07bbe0b5f023a864fd3
+    name: prometheus
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/prometheus-0.6.1.tgz
+    version: 0.6.1
+  - created: 2017-09-19T13:31:31.003844408Z
+    description: Prometheus is a monitoring system and time series database.
+    digest: 0abdf508bede95fa7d55080abca77ed4b8fd8402a2e8790bc5cc449c3fcc0968
+    name: prometheus
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/prometheus-0.6.0.tgz
+    version: 0.6.0
+  - created: 2017-09-08T13:02:15.24920231Z
+    description: Prometheus is a monitoring system and time series database.
+    digest: db75c9e12654e9e7097d0a4bd271c2b16af4a47d38f1db16230d6e4d5528d8a6
+    name: prometheus
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/prometheus-0.5.2.tgz
+    version: 0.5.2
+  - created: 2017-09-05T09:07:05.699991179Z
+    description: Prometheus is a monitoring system and time series database.
+    digest: 3b48890b773b8786b955197c8f78b988c93d7f2aaf006c7152b7d6830124475e
+    name: prometheus
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/prometheus-0.5.1.tgz
+    version: 0.5.1
+  - created: 2017-08-28T14:51:02.214990249+03:00
+    description: Prometheus is a monitoring system and time series database.
+    digest: e4dfba09bca6d9d1c577e80fb33c97a1d7ffa8dd7576a6f83551e23df4e39f08
+    name: prometheus
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/prometheus-0.5.0.tgz
+    version: 0.5.0
+  - created: 2018-02-03T14:54:28.024826012-08:00
+    description: Prometheus is a monitoring system and time series database.
+    digest: 8c6d77db59d48cd1c8cb0950e63887ba58e83782c1d033e2241f14c628583459
+    name: prometheus
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/prometheus-0.4.0.tgz
+    version: 0.4.0
+  - created: 2018-02-03T14:54:28.024375567-08:00
+    description: Prometheus is a monitoring system and time series database.
+    digest: 344158fe4a0c2af58a06290387e287f7f9387ee0376d0a2caa0d2c6b3d3597ac
+    name: prometheus
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/prometheus-0.3.0.tgz
+    version: 0.3.0
+  - created: 2018-02-03T14:54:28.023214265-08:00
+    description: Prometheus is a monitoring system and time series database.
+    digest: 56e276e8961bf045cae46abf7b4d9b781f9e8cd6ab90fa0c25154f753def994b
+    name: prometheus
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/prometheus-0.2.1.tgz
+    version: 0.2.1
+  - created: 2017-06-19T16:29:54.025440724+03:00
+    description: Prometheus is a monitoring system and time series database.
+    digest: 0953c9afd2ebf6183c12368e71bdc7842547407fe2298d138c8a8f56475b177e
+    name: prometheus
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/prometheus-0.2.0.tgz
+    version: 0.2.0
+  - created: 2018-02-03T14:54:28.022623022-08:00
+    description: Prometheus is a monitoring system and time series database.
+    digest: ba2a2a7eb1e1b358ca034195cb3611678896672bc5418d8539f93973a6412842
+    name: prometheus
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/prometheus-0.1.0.tgz
+    version: 0.1.0
+  rabbitmq:
+  - appVersion: rabbitmq-autocluster
+    created: 2018-12-13T10:25:59.581727961Z
+    description: Open source message broker software that implements the Advanced
+      Message Queuing Protocol (AMQP)
+    digest: 49bd82c89fcbc92e36de4205062a61c174991a8d667abc480922eae1ec73dbf3
+    icon: https://bitnami.com/assets/stacks/rabbitmq/img/rabbitmq-stack-220x234.png
+    name: rabbitmq
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/rabbitmq-0.5.6.tgz
+    version: 0.5.6
+  - appVersion: rabbitmq-autocluster
+    created: 2017-10-12T15:09:13.05162428Z
+    description: Open source message broker software that implements the Advanced
+      Message Queuing Protocol (AMQP)
+    digest: 78e902762e1a49ea14296f0199d2d1a8b40e9b3e040b14bcae3504ae41b40b91
+    icon: https://bitnami.com/assets/stacks/rabbitmq/img/rabbitmq-stack-220x234.png
+    name: rabbitmq
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/rabbitmq-0.5.5.tgz
+    version: 0.5.5
+  - created: 2017-10-10T08:04:49.597208672Z
+    description: Open source message broker software that implements the Advanced
+      Message Queuing Protocol (AMQP)
+    digest: f7aaf4ced2270131e1ad29eddd627133b78803022297db72f6c1d0b23075953f
+    name: rabbitmq
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/rabbitmq-0.5.4.tgz
+    version: 0.5.4
+  - created: 2017-09-05T14:04:29.772330134Z
+    description: Open source message broker software that implements the Advanced
+      Message Queuing Protocol (AMQP)
+    digest: 7083c6170e99c7d4973b863ea6c7d2b15b7c409d68e3423fd72f0ea04f04bcf4
+    name: rabbitmq
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/rabbitmq-0.5.3.tgz
+    version: 0.5.3
+  - created: 2017-08-30T13:59:22.580959368Z
+    description: Open source message broker software that implements the Advanced
+      Message Queuing Protocol (AMQP)
+    digest: da3460d50451dcb44da282f2926b1aad2adafb5c9efa88c26c16337ae88fc4de
+    name: rabbitmq
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/rabbitmq-0.5.2.tgz
+    version: 0.5.2
+  - created: 2017-08-28T14:51:02.216385899+03:00
+    description: Open source message broker software that implements the Advanced
+      Message Queuing Protocol (AMQP)
+    digest: 1a8b88e9dd058222073a6301e6917ba7c00ba5dda2f5fc6733e2effa94f389c1
+    name: rabbitmq
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/rabbitmq-0.5.1.tgz
+    version: 0.5.1
+  - created: 2017-08-28T14:51:02.216079403+03:00
+    description: Open source message broker software that implements the Advanced
+      Message Queuing Protocol (AMQP)
+    digest: 8d65231f0e40e300a9a0280630ac2cc1b7455a412558a57bf18dcc7de536a2e9
+    name: rabbitmq
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/rabbitmq-0.5.0.tgz
+    version: 0.5.0
+  - created: 2017-08-28T14:51:02.215773475+03:00
+    description: Open source message broker software that implements the Advanced
+      Message Queuing Protocol (AMQP)
+    digest: 3a5f9bc7ddadd39f8158eadfacb200edabe3ee666a0c4831c8cf4b01089ef78c
+    name: rabbitmq
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/rabbitmq-0.4.2.tgz
+    version: 0.4.2
+  - created: 2018-02-03T14:54:28.027220808-08:00
+    description: Open source message broker software that implements the Advanced
+      Message Queuing Protocol (AMQP)
+    digest: ceb61669f8358f40d03c49a61724a2460b4fd8e6825d0b810a51480cf4f6e117
+    name: rabbitmq
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/rabbitmq-0.4.1.tgz
+    version: 0.4.1
+  - created: 2018-02-03T14:54:28.026932612-08:00
+    description: Open source message broker software that implements the Advanced
+      Message Queuing Protocol (AMQP)
+    digest: 04e17b5646d2a14d59d5553f32aa8c2dc640f4dce8d99e93a8d33e49a09f8e05
+    name: rabbitmq
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/rabbitmq-0.3.0.tgz
+    version: 0.3.0
+  - created: 2018-02-03T14:54:28.026671297-08:00
+    description: Open source message broker software that implements the Advanced
+      Message Queuing Protocol (AMQP)
+    digest: ef75f770115525ffa3fc5c2731149e988b803912228f11e4b0080503a19a58de
+    name: rabbitmq
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/rabbitmq-0.2.0.tgz
+    version: 0.2.0
+  - created: 2018-02-03T14:54:28.026404532-08:00
+    description: Open source message broker software that implements the Advanced
+      Message Queuing Protocol (AMQP)
+    digest: 277f3874225da465ca2fbacd5d2ebe0a65bd8f55b96f42e7556716e10410662c
+    name: rabbitmq
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/rabbitmq-0.1.0.tgz
+    version: 0.1.0
+  redis:
+  - appVersion: "4"
+    created: 2018-12-13T10:25:59.582145993Z
+    description: Open source, advanced key-value store. It is often referred to as
+      a data structure server since keys can contain strings, hashes, lists, sets
+      and sorted sets.
+    digest: 69af69519d1b40b2afc58ae011edd48d033d713e163e17c32ce02fd200289f69
+    icon: https://bitnami.com/assets/stacks/redis/img/redis-stack-220x234.png
+    name: redis
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/redis-2.1.1.tgz
+    version: 2.1.1
+  - appVersion: "4"
+    created: 2018-02-03T14:54:28.028748184-08:00
+    description: Open source, advanced key-value store. It is often referred to as
+      a data structure server since keys can contain strings, hashes, lists, sets
+      and sorted sets.
+    digest: 4ff74565c850b0c6568ece5b4e7c36b678f054136708a7e0d0cfe5e4af8f2b3f
+    icon: https://bitnami.com/assets/stacks/redis/img/redis-stack-220x234.png
+    name: redis
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/redis-2.1.0.tgz
+    version: 2.1.0
+  - appVersion: "4"
+    created: 2017-10-10T15:43:01.448511544Z
+    description: Open source, advanced key-value store. It is often referred to as
+      a data structure server since keys can contain strings, hashes, lists, sets
+      and sorted sets.
+    digest: 8e900dc58168ca7094dd48aa0b83d3a3229a6cd4a4734bbdcd77eafd32f3fb11
+    icon: https://bitnami.com/assets/stacks/redis/img/redis-stack-220x234.png
+    name: redis
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/redis-2.0.1.tgz
+    version: 2.0.1
+  - created: 2017-10-10T08:04:49.597681162Z
+    description: Open source, advanced key-value store. It is often referred to as
+      a data structure server since keys can contain strings, hashes, lists, sets
+      and sorted sets.
+    digest: 6554c5615870fb5254b911fc1b5b024c7aebcdd3e6457cbf64fcf7088c2a89af
+    name: redis
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/redis-2.0.0.tgz
+    version: 2.0.0
+  - created: 2017-09-28T12:46:00.138173622Z
+    description: Open source, advanced key-value store. It is often referred to as
+      a data structure server since keys can contain strings, hashes, lists, sets
+      and sorted sets.
+    digest: eb4c6cbc0a2ceedc0d600cd0972353f05d0de00cc5b88a3d535b0f0d600047e6
+    name: redis
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/redis-1.6.0.tgz
+    version: 1.6.0
+  - created: 2017-09-04T12:06:51.712060039Z
+    description: Open source, advanced key-value store. It is often referred to as
+      a data structure server since keys can contain strings, hashes, lists, sets
+      and sorted sets.
+    digest: faa662fcabb183484ac834635f52e1dc0e542c9eb66b678fde6ab7a3b1c422be
+    name: redis
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/redis-1.5.3.tgz
+    version: 1.5.3
+  - created: 2017-08-30T13:59:22.581374416Z
+    description: Open source, advanced key-value store. It is often referred to as
+      a data structure server since keys can contain strings, hashes, lists, sets
+      and sorted sets.
+    digest: 363b1d9aca71c04acd38772ba33829e326251b744120efc5517c165cd4255d07
+    name: redis
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/redis-1.5.2.tgz
+    version: 1.5.2
+  - created: 2017-08-28T14:51:02.216984337+03:00
+    description: Open source, advanced key-value store. It is often referred to as
+      a data structure server since keys can contain strings, hashes, lists, sets
+      and sorted sets.
+    digest: 04e9ec2989a28cf70f6c91d22ade87aab4e56c1c622c99d6b36647a89408a9fe
+    name: redis
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/redis-1.5.1.tgz
+    version: 1.5.1
+  - created: 2017-07-14T11:09:44.405810255+03:00
+    description: Open source, advanced key-value store. It is often referred to as
+      a data structure server since keys can contain strings, hashes, lists, sets
+      and sorted sets.
+    digest: 9d392c04f2be1614d3a75ecaf7c6f4c3615f778199ab73ded539e2c520c87547
+    name: redis
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/redis-1.5.0.tgz
+    version: 1.5.0
+  - created: 2018-02-03T14:54:28.028486605-08:00
+    description: Open source, advanced key-value store. It is often referred to as
+      a data structure server since keys can contain strings, hashes, lists, sets
+      and sorted sets.
+    digest: 5349f48f5b1762e0a2fe686c77b5deefb36be4bcab9dd4b0988cbb3f1c1544de
+    name: redis
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/redis-1.4.0.tgz
+    version: 1.4.0
+  - created: 2018-02-03T14:54:28.028226525-08:00
+    description: Open source, advanced key-value store. It is often referred to as
+      a data structure server since keys can contain strings, hashes, lists, sets
+      and sorted sets.
+    digest: bdbb7dc0a7e196772c595aebd02a85e4ae8c68f0ad30ae3307dbe1a405cd8fe3
+    name: redis
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/redis-1.2.0.tgz
+    version: 1.2.0
+  - created: 2018-02-03T14:54:28.027990257-08:00
+    description: Open source, advanced key-value store. It is often referred to as
+      a data structure server since keys can contain strings, hashes, lists, sets
+      and sorted sets.
+    digest: 9e9c3e3081a5a55bbb12fe1231ade28d0bb11a20829f6a78a33589569df47a34
+    name: redis
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/redis-1.1.0.tgz
+    version: 1.1.0
+  - created: 2018-02-03T14:54:28.027749021-08:00
+    description: Open source, advanced key-value store. It is often referred to as
+      a data structure server since keys can contain strings, hashes, lists, sets
+      and sorted sets.
+    digest: c115cac7b84ff3f1f32d5078740bc14f644fd2b0a89fec1972a3239160386ea7
+    name: redis
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/redis-1.0.0.tgz
+    version: 1.0.0
+  rollout:
+  - created: 2018-12-13T10:25:59.585780206Z
+    description: Rollout-rollback demo
+    digest: 7c743b4bef50f091d2d8780f81200581aa19b268a2b456ad08a32b4d18865257
+    name: rollout
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/rollout-0.8.2.tgz
+    version: 0.8.2
+  - created: 2018-03-06T20:06:01.784423939Z
+    description: Rollout-rollback demo
+    digest: 3c4272c7de6f472aa7fb7df541873c87da411252c4494c4f7db8462413b9e315
+    name: rollout
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/rollout-0.8.1.tgz
+    version: 0.8.1
+  - created: 2018-03-06T10:31:06.293413914Z
+    description: Rollout-rollback demo
+    digest: a3d6435fe1bf85c95e18dcffb6d110f36e1707adae8f61d360b691292ca15a15
+    name: rollout
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/rollout-0.8.0.tgz
+    version: 0.8.0
+  - created: 2018-03-05T12:21:58.378998603Z
+    description: Rollout-rollback demo
+    digest: 9cbbdfc478640941324531b61104b3514b5ee5b3d7a94b5d1c1e0cdbc9279284
+    name: rollout
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/rollout-0.7.1.tgz
+    version: 0.7.1
+  - created: 2018-02-27T14:38:33.700896073Z
+    description: Rollout-rollback demo
+    digest: f72fb47bcbf979f6608e705385580ac7f8abad607145075594d8129175cdb47f
+    name: rollout
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/rollout-0.6.1.tgz
+    version: 0.6.1
+  - created: 2018-02-21T10:28:00.232877261Z
+    description: Rollout-rollback demo
+    digest: 3317a228ca0c81d5c17326e196497024a278b031b3f7f24d0e4bd23d0694c253
+    name: rollout
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/rollout-0.6.0.tgz
+    version: 0.6.0
+  - created: 2018-02-20T17:36:22.295518083Z
+    description: Rollout-rollback demo
+    digest: 4c87e2abf723aecb3720a8ee36086da0f7d832610ec02bc5441c277f89a36a64
+    name: rollout
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/rollout-0.5.3.tgz
+    version: 0.5.3
+  - created: 2018-02-20T16:01:44.931437815Z
+    description: Rollout-rollback demo
+    digest: 39b7e4b01333f25c845ee78533197db110e1f1178bb49dabac065412aa7a1e60
+    name: rollout
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/rollout-0.5.2.tgz
+    version: 0.5.2
+  - created: 2018-02-20T14:21:28.292162597Z
+    description: Rollout-rollback demo
+    digest: 0c500f1434aa276ee5d62a2040db72cca3b435301e96df73ac0bf02dd199f86b
+    name: rollout
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/rollout-0.5.1.tgz
+    version: 0.5.1
+  - created: 2018-02-19T15:47:55.329670336Z
+    description: Rollout-rollback demo
+    digest: 1d76b9574ebb5e1a24f24e25c2b925a790a456bcffdb63858e6c012e861d9f8f
+    name: rollout
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/rollout-0.4.0.tgz
+    version: 0.4.0
+  - created: 2018-02-19T10:42:12.679971003Z
+    description: Rollout-rollback demo
+    digest: 8768c2032d3e42f08b457b3ab44674913b43ad48626f2b3dce52b6aba9055b2f
+    name: rollout
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/rollout-0.3.0.tgz
+    version: 0.3.0
+  - created: 2018-02-16T13:09:47.542708581Z
+    description: Rollout-rollback demo
+    digest: 915ee62ad4bdfdb20e2beddd6255513c68d1bcf236e48f288e14f3170836f1ae
+    name: rollout
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/rollout-0.1.0.tgz
+    version: 0.1.0
+  schemaRegistry:
+  - created: 2017-08-28T14:51:02.217947971+03:00
+    digest: d1a1710f1af96a085b38b3b702023c5310d8610389040bf2981cdc09b85d53ab
+    name: schemaRegistry
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/schemaRegistry-1.0.0.tgz
+    version: 1.0.0
+  spark:
+  - appVersion: 2.2.0
+    created: 2018-12-13T10:25:59.586938972Z
+    description: Fast and general-purpose cluster computing system.
+    digest: ae2c2d72c77bceff2e89665d59679be41d274ba7855633f413b44a9dbc52ba60
+    icon: http://spark.apache.org/images/spark-logo-trademark.png
+    name: spark
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/spark-3.0.5.tgz
+    version: 3.0.5
+  - appVersion: 2.2.0
+    created: 2018-04-10T08:24:34.250554204Z
+    description: Fast and general-purpose cluster computing system.
+    digest: 4234a87e61155057f7e77aae01dbbd8a7973c1b5ce2e90e190897071eb06a3d7
+    icon: http://spark.apache.org/images/spark-logo-trademark.png
+    name: spark
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/spark-3.0.4.tgz
+    version: 3.0.4
+  - appVersion: 2.2.0
+    created: 2018-03-01T13:06:12.076187295Z
+    description: Fast and general-purpose cluster computing system.
+    digest: 1fee5606a1bdc933f92237518902fb4657040275ec59c6768964e464f131c662
+    icon: http://spark.apache.org/images/spark-logo-trademark.png
+    name: spark
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/spark-3.0.3.tgz
+    version: 3.0.3
+  - appVersion: 2.2.0
+    created: 2017-10-12T11:23:47.219866167Z
+    description: Fast and general-purpose cluster computing system.
+    digest: fffeeb7efe33a7a934679b8b6205533ceb1e860af74d8295b8548453b3c21285
+    icon: http://spark.apache.org/images/spark-logo-trademark.png
+    name: spark
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/spark-3.0.2.tgz
+    version: 3.0.2
+  - appVersion: 2.2.0
+    created: 2017-10-11T10:55:35.609733697Z
+    description: Fast and general-purpose cluster computing system.
+    digest: 16fa44ad154fa3325ec112f6d8da63e33472050af05d01753fbcebdd09e6f4ca
+    icon: http://spark.apache.org/images/spark-logo-trademark.png
+    name: spark
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/spark-3.0.1.tgz
+    version: 3.0.1
+  - created: 2017-09-12T07:18:23.276994196Z
+    description: Fast and general-purpose cluster computing system.
+    digest: 426600704f55662a7a4906736e439d273b72e21441e5f19307f54deddd33bd3b
+    name: spark
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/spark-3.0.0.tgz
+    version: 3.0.0
+  - created: 2017-08-23T11:53:59.165528317Z
+    description: Fast and general-purpose cluster computing system.
+    digest: 5531baf3397ebed35efe79e1a540a5672621a8c23e988b8866cb0ab3e1dd4730
+    name: spark
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/spark-2.1.0.tgz
+    version: 2.1.0
+  - created: 2017-08-22T10:40:37.552014963Z
+    description: Fast and general-purpose cluster computing system.
+    digest: e46508e3bef8f2cae1db17abe8fa1343ed8e7f0effa3df7ae750dd8a87799eec
+    name: spark
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/spark-2.0.0.tgz
+    version: 2.0.0
+  - created: 2017-08-28T14:51:02.219668482+03:00
+    description: Fast and general-purpose cluster computing system.
+    digest: 6d952e84853c7961041d8b585e63ab49dec27dc79bc2c68af9d36e85af2b3488
+    name: spark
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/spark-1.3.0.tgz
+    version: 1.3.0
+  - created: 2017-08-15T16:56:18.273176629Z
+    description: Fast and general-purpose cluster computing system.
+    digest: 2bb08b4518d91414b1ae1e48c4a552ab18ad566f3d6b65b83e5dc536a1bec18e
+    name: spark
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/spark-1.2.1.tgz
+    version: 1.2.1
+  - created: 2018-02-03T14:54:28.031059535-08:00
+    description: Fast and general-purpose cluster computing system.
+    digest: 1329b4d08d6a2fff039fe2d3572ce2cd14550bcd5273b3cc38b1bd397bf438d5
+    name: spark
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/spark-1.2.0.tgz
+    version: 1.2.0
+  - created: 2018-02-03T14:54:28.030303693-08:00
+    description: Fast and general-purpose cluster computing system.
+    digest: 7c17ddd8b46398144860582a1fa79c89fc7fd281a4179c0606703f5e4b73b59b
+    name: spark
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/spark-1.1.2.tgz
+    version: 1.1.2
+  - created: 2017-06-19T16:29:54.026962506+03:00
+    description: Fast and general-purpose cluster computing system.
+    digest: 1f0363cce8b3ab99fe5636cd54b038b00c2c8be83f96f7ef714d043177cda69f
+    name: spark
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/spark-1.1.1.tgz
+    version: 1.1.1
+  - created: 2017-06-14T10:32:40.752777248+03:00
+    description: Fast and general-purpose cluster computing system.
+    digest: 25fc12e6a60ed12bd983c4da59c14b1ef4937f0c8fc5a9a3d9b0887598d909ae
+    name: spark
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/spark-1.1.0.tgz
+    version: 1.1.0
+  - created: 2018-02-03T14:54:28.029584458-08:00
+    description: Fast and general-purpose cluster computing system.
+    digest: b11e7b7b01bc0c1c0f32c6309f96adbd34825305f8d520cadea4fb7391bf03c6
+    name: spark
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/spark-1.0.0.tgz
+    version: 1.0.0
+  - created: 2017-06-08T14:54:17.591642668+03:00
+    description: Fast and general-purpose cluster computing system.
+    digest: 3332e1562a5308b3cc2d9c8cc60578182c7ade7ba452e54e6a00ebaeb4190433
+    home: http://spark.apache.org
+    icon: http://spark.apache.org/images/spark-logo-trademark.png
+    maintainers:
+    - email: lachlan.evenson@gmail.com
+      name: Lachlan Evenson
+    name: spark
+    sources:
+    - https://github.com/kubernetes/kubernetes/tree/master/examples/spark
+    - https://github.com/apache/spark
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/spark-0.1.4.tgz
+    version: 0.1.4
+  spinnaker:
+  - created: 2018-12-13T10:25:59.589550924Z
+    description: Open source, multi-cloud continuous delivery platform for releasing
+      software changes with high velocity and confidence.
+    digest: a5bd77ba4ab1baf3835ee32df55dafb8a225b2cffb2e229308b68eff68071b4c
+    icon: https://pbs.twimg.com/profile_images/669205226994319362/O7OjwPrh_400x400.png
+    name: spinnaker
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/spinnaker-3.2.0.tgz
+    version: 3.2.0
+  - created: 2018-02-21T13:43:56.34928088Z
+    description: Open source, multi-cloud continuous delivery platform for releasing
+      software changes with high velocity and confidence.
+    digest: aad2f9f11a6cfc8f417520a99aa37f123845f8387e90614e736b9015532099dd
+    icon: https://pbs.twimg.com/profile_images/669205226994319362/O7OjwPrh_400x400.png
+    name: spinnaker
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/spinnaker-3.1.0.tgz
+    version: 3.1.0
+  - created: 2018-02-05T15:19:08.998955935Z
+    description: Open source, multi-cloud continuous delivery platform for releasing
+      software changes with high velocity and confidence.
+    digest: d13ae0a514ef44b006f8dc03ee9cbb23dfb9cdfe71c73b28e619dfacecb866ea
+    icon: https://pbs.twimg.com/profile_images/669205226994319362/O7OjwPrh_400x400.png
+    name: spinnaker
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/spinnaker-3.0.1.tgz
+    version: 3.0.1
+  - created: 2018-01-11T13:40:32.289427793Z
+    description: Open source, multi-cloud continuous delivery platform for releasing
+      software changes with high velocity and confidence.
+    digest: 3fb0f63ca53fbc68d255874a86e6b3bc301c300ef5d1954a22c519de2b81c979
+    icon: https://pbs.twimg.com/profile_images/669205226994319362/O7OjwPrh_400x400.png
+    name: spinnaker
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/spinnaker-3.0.0.tgz
+    version: 3.0.0
+  - created: 2017-12-18T13:12:11.508192089Z
+    description: Open source, multi-cloud continuous delivery platform for releasing
+      software changes with high velocity and confidence.
+    digest: 531019e46b4dd37c040f07713e08e64abac1eba2d6e0cb29a8adebb68f289013
+    icon: https://pbs.twimg.com/profile_images/669205226994319362/O7OjwPrh_400x400.png
+    name: spinnaker
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/spinnaker-2.7.0.tgz
+    version: 2.7.0
+  - created: 2017-12-14T13:22:14.459381551Z
+    description: Open source, multi-cloud continuous delivery platform for releasing
+      software changes with high velocity and confidence.
+    digest: d46e4662156b45b395c5d30fe6b570d4110d100c3d72f1560af130d05f5e6046
+    icon: https://pbs.twimg.com/profile_images/669205226994319362/O7OjwPrh_400x400.png
+    name: spinnaker
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/spinnaker-2.6.1.tgz
+    version: 2.6.1
+  - created: 2017-11-08T08:06:44.852933596Z
+    description: Open source, multi-cloud continuous delivery platform for releasing
+      software changes with high velocity and confidence.
+    digest: f44a1ceec847c8f51230c80c74d864318a167a8e25dfe8d2b28609b42a66d5b5
+    icon: https://pbs.twimg.com/profile_images/669205226994319362/O7OjwPrh_400x400.png
+    name: spinnaker
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/spinnaker-2.6.0.tgz
+    version: 2.6.0
+  - created: 2017-11-03T07:33:02.370055845Z
+    description: Open source, multi-cloud continuous delivery platform for releasing
+      software changes with high velocity and confidence.
+    digest: 2b8b8aab40d4454b0a8c085720e94b72292958a3b9bacbbe8350e53a8c4f90bb
+    icon: https://pbs.twimg.com/profile_images/669205226994319362/O7OjwPrh_400x400.png
+    name: spinnaker
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/spinnaker-2.5.0.tgz
+    version: 2.5.0
+  - created: 2018-02-03T14:54:28.03556273-08:00
+    description: Open source, multi-cloud continuous delivery platform for releasing
+      software changes with high velocity and confidence.
+    digest: 3c3c265ce906c1be5bbfae46bb80fad0a75fa096e7d5b87826319ae2fef9af38
+    icon: https://pbs.twimg.com/profile_images/669205226994319362/O7OjwPrh_400x400.png
+    name: spinnaker
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/spinnaker-2.3.2.tgz
+    version: 2.3.2
+  - created: 2018-02-03T14:54:28.034097628-08:00
+    description: Open source, multi-cloud continuous delivery platform for releasing
+      software changes with high velocity and confidence.
+    digest: 2398aa8d951aaa7469202e724d7dddf3bef8281b3c8e4c887b92d483fc7b1f31
+    icon: https://pbs.twimg.com/profile_images/669205226994319362/O7OjwPrh_400x400.png
+    name: spinnaker
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/spinnaker-2.3.1.tgz
+    version: 2.3.1
+  - created: 2017-10-10T08:04:49.601387085Z
+    description: Open source, multi-cloud continuous delivery platform for releasing
+      software changes with high velocity and confidence.
+    digest: 0ad884d99121f793be9a38ceee556ca10923d83f142549c83fb05a8341ee87d0
+    name: spinnaker
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/spinnaker-2.3.0.tgz
+    version: 2.3.0
+  - created: 2017-09-28T12:46:00.141667381Z
+    description: Open source, multi-cloud continuous delivery platform for releasing
+      software changes with high velocity and confidence.
+    digest: 78f4f64813362a79a06c3e94c399786435ba52cbbdc67b1f088fc1e07bcf4911
+    name: spinnaker
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/spinnaker-2.2.3.tgz
+    version: 2.2.3
+  - created: 2017-09-12T07:18:23.279577274Z
+    description: Open source, multi-cloud continuous delivery platform for releasing
+      software changes with high velocity and confidence.
+    digest: af39aa0f7132716340d90cdeb293e547a4c3602a6504c59f4681065555e308a9
+    name: spinnaker
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/spinnaker-2.2.2.tgz
+    version: 2.2.2
+  - created: 2017-09-04T11:15:28.397328571Z
+    description: Open source, multi-cloud continuous delivery platform for releasing
+      software changes with high velocity and confidence.
+    digest: 6cc0684e27f059a236f7dbc5132d915dc34b3dcf7a44ae1f734371430535c6f3
+    name: spinnaker
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/spinnaker-2.2.1.tgz
+    version: 2.2.1
+  - created: 2017-08-30T13:59:22.584981567Z
+    description: Open source, multi-cloud continuous delivery platform for releasing
+      software changes with high velocity and confidence.
+    digest: 7992b5ff21c2c786544af26e1d549a8adda0757c745cb8cab127e285d380dd2c
+    name: spinnaker
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/spinnaker-2.2.0.tgz
+    version: 2.2.0
+  - created: 2017-08-15T18:22:39.921698704Z
+    description: Open source, multi-cloud continuous delivery platform for releasing
+      software changes with high velocity and confidence.
+    digest: d4fe0fbd2952007fefad9ba7f93c2cfe3503f99f58f6b4af425d908296e710fe
+    name: spinnaker
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/spinnaker-2.0.0.tgz
+    version: 2.0.0
+  - created: 2017-08-15T15:20:12.626107665Z
+    description: Open source, multi-cloud continuous delivery platform for releasing
+      software changes with high velocity and confidence.
+    digest: f2b2082c96037a779fa9a170e60e630141ac5e099e63ac6af88581cf09bb73d0
+    name: spinnaker
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/spinnaker-1.0.0.tgz
+    version: 1.0.0
+  spinnaker-helm:
+  - created: 2018-12-13T10:25:59.59297583Z
+    description: Open source, multi-cloud continuous delivery platform for releasing
+      software changes with high velocity and confidence.
+    digest: e839bf8d27a50974f1d6880e6f2a5b0f00b2b50c7e7700e80e60eaee7e34724f
+    icon: https://pbs.twimg.com/profile_images/669205226994319362/O7OjwPrh_400x400.png
+    name: spinnaker-helm
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/spinnaker-helm-3.1.0.tgz
+    version: 3.1.0
+  tweepub:
+  - created: 2018-12-13T10:25:59.594226487Z
+    description: A Helm chart for TweePub - Streaming tweets to Apache Kafka
+    digest: a71f3cba130c5aac6bc0ad0056e983cc13dd28aa87a1d7d87644fca0bdf60411
+    icon: https://mirantisworkloads.storage.googleapis.com/icons/twitter.png
+    name: tweepub
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/tweepub-2.3.2.tgz
+    version: 2.3.2
+  - created: 2018-08-16T12:33:04.22869536Z
+    description: A Helm chart for TweePub - Streaming tweets to Apache Kafka
+    digest: a4e34d035c952c085d65a19d4e65e62490fb498065437f748c56aee8c37a7f43
+    icon: https://upload.wikimedia.org/wikipedia/en/9/9f/Twitter_bird_logo_2012.svg
+    name: tweepub
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/tweepub-2.3.1.tgz
+    version: 2.3.1
+  - created: 2018-08-10T05:49:15.405974377Z
+    description: A Helm chart for TweePub - Streaming tweets to Apache Kafka
+    digest: 77e3067440beaf8706606a52ecc7da7bb058d916625f75bf91ba1077daa95529
+    name: tweepub
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/tweepub-2.3.0.tgz
+    version: 2.3.0
+  - created: 2018-02-03T14:54:28.042409215-08:00
+    description: A Helm chart for TweePub - Streaming tweets to Apache Kafka
+    digest: 4ff671a6f31b077c1d18a67cd21040d28b1d5ffd3a7fb952976ac936787efa8c
+    name: tweepub
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/tweepub-2.2.0.tgz
+    version: 2.2.0
+  - created: 2018-02-03T14:54:28.041655388-08:00
+    description: A Helm chart for TweePub - Streaming tweets to Apache Kafka
+    digest: 077a4227dceb9d8f13d5b2f40d04abfd9257c50319b8fdf7eb27c13adb27b6a1
+    name: tweepub
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/tweepub-2.1.1.tgz
+    version: 2.1.1
+  - created: 2017-10-10T12:15:54.786601051Z
+    description: A Helm chart for TweePub - Streaming tweets to Apache Kafka
+    digest: 362853cf1411e81afbae9a73111d3d9c2085509d43d37c1a09ce2c135037bacf
+    name: tweepub
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/tweepub-2.1.0.tgz
+    version: 2.1.0
+  - created: 2017-10-06T13:21:41.781349589Z
+    description: A Helm chart for TweePub - Streaming tweets to Apache Kafka
+    digest: 956a6e434aed9bb261b41791da35db4067459efed1a05f3e1fefe2191df26f8f
+    name: tweepub
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/tweepub-2.0.1.tgz
+    version: 2.0.1
+  - created: 2017-08-28T14:51:02.223708788+03:00
+    description: A Helm chart for TweePub - Streaming tweets to Apache Kafka
+    digest: 5c61220e424235d5185f8e2b24b99992413334c69e58eb30f333108148ae33f3
+    name: tweepub
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/tweepub-2.0.0.tgz
+    version: 2.0.0
+  - created: 2018-02-03T14:54:28.040896242-08:00
+    description: A Helm chart for TweePub - Streaming tweets to Apache Kafka
+    digest: 65235519d0b60e1026910fa109714fe22aac9e569e6f3c28710d6465711acf34
+    name: tweepub
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/tweepub-1.2.0.tgz
+    version: 1.2.0
+  - created: 2018-02-03T14:54:28.040212179-08:00
+    description: A Helm chart for TweePub - Streaming tweets to Apache Kafka
+    digest: 02f86e6e4d60d5f5eba84661b8c1d69e6dff9ddecd60c698f229b4ea0b305b21
+    name: tweepub
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/tweepub-1.1.0.tgz
+    version: 1.1.0
+  - created: 2018-02-03T14:54:28.039508768-08:00
+    description: A Helm chart for TweePub - Streaming tweets to Apache Kafka
+    digest: 719901e4410696deb79c83d0fd7c40281a85659c556e88316dca270844214066
+    name: tweepub
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/tweepub-1.0.0.tgz
+    version: 1.0.0
+  - apiVersion: v1
+    created: 2017-06-08T14:54:17.592885014+03:00
+    description: A Helm chart for TweePub - Streaming tweets to Apache Kafka
+    digest: 7137b88d90fd6b2292266efad77cdc5b51cf9ca26b0aa97495e8f6beb52214b6
+    name: tweepub
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/tweepub-0.1.0.tgz
+    version: 0.1.0
+  tweepub-fake:
+  - created: 2018-12-13T10:25:59.595126218Z
+    description: A Helm chart for TweePub Fake - Streaming fake tweets to Apache Kafka
+    digest: b37f738e7f5085234c4a8202f5c821df6c0d34461ecd4442335a079ab765afb8
+    icon: https://mirantisworkloads.storage.googleapis.com/icons/twitter.png
+    name: tweepub-fake
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/tweepub-fake-1.1.3.tgz
+    version: 1.1.3
+  - created: 2018-08-16T12:33:04.230173542Z
+    description: A Helm chart for TweePub Fake - Streaming fake tweets to Apache Kafka
+    digest: 303b76ed6b5b669882bef81abdaa4b5eac21d9b67b9608647b48e3d6f657a01c
+    icon: https://upload.wikimedia.org/wikipedia/en/9/9f/Twitter_bird_logo_2012.svg
+    name: tweepub-fake
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/tweepub-fake-1.1.2.tgz
+    version: 1.1.2
+  - created: 2018-08-10T05:49:15.407424867Z
+    description: A Helm chart for TweePub Fake - Streaming fake tweets to Apache Kafka
+    digest: ba8c00b4a4e697105eaa0c7c3244330514750bf3cd95bc88b48e357d16ff502e
+    name: tweepub-fake
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/tweepub-fake-1.1.1.tgz
+    version: 1.1.1
+  - created: 2018-02-03T14:54:28.044487804-08:00
+    description: A Helm chart for TweePub Fake - Streaming fake tweets to Apache Kafka
+    digest: e19fadc313e1e68b488c22fe7847f12a88c8fe4e13409ad64b717c6f5c3a9936
+    name: tweepub-fake
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/tweepub-fake-1.0.0.tgz
+    version: 1.0.0
+  tweepub_fake:
+  - created: 2018-02-03T14:54:28.045041327-08:00
+    description: A Helm chart for TweePub Fake - Streaming fake tweets to Apache Kafka
+    digest: 747ea190273aa91d6b6502df0b8e4401f05f1f1301adccea6427e44ad16eb90c
+    name: tweepub_fake
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/tweepub_fake-1.0.0.tgz
+    version: 1.0.0
+  tweetics:
+  - created: 2018-12-13T10:25:59.598020376Z
+    description: A Helm chart for Tweetics - Spark job that parses tweets from Kafka
+      and stores hashtags popularity as text files (to HDFS) or to Cassandra.
+    digest: 350ead7ff48eaa2aacb85f7f85d88f0d6c1856263ced59422a4667e4a7524e53
+    icon: https://mirantisworkloads.storage.googleapis.com/icons/twitter.png
+    name: tweetics
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/tweetics-2.4.2.tgz
+    version: 2.4.2
+  - created: 2018-08-16T12:33:04.234656428Z
+    description: A Helm chart for Tweetics - Spark job that parses tweets from Kafka
+      and stores hashtags popularity as text files (to HDFS) or to Cassandra.
+    digest: 2b17359eb8c9ac7e43540a856beb2b90851a38ff472500fbc8ee4d6949ff10a5
+    icon: https://upload.wikimedia.org/wikipedia/en/9/9f/Twitter_bird_logo_2012.svg
+    name: tweetics
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/tweetics-2.4.1.tgz
+    version: 2.4.1
+  - created: 2018-08-10T05:49:15.411892517Z
+    description: A Helm chart for Tweetics - Spark job that parses tweets from Kafka
+      and stores hashtags popularity as text files (to HDFS) or to Cassandra.
+    digest: 5b4eb49c57228d21305b5179a5bb3be4f95fc537fc27a338a33829a19a798cbf
+    name: tweetics
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/tweetics-2.4.0.tgz
+    version: 2.4.0
+  - created: 2018-02-03T14:54:28.05589649-08:00
+    description: A Helm chart for Tweetics - Spark job that parses tweets from Kafka
+      and stores hashtags popularity as text files (to HDFS) or to Cassandra.
+    digest: c9000ed6e3423d4d7f03b069f5c5961d19a4c268da314ca40c72c527dfa372df
+    name: tweetics
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/tweetics-2.3.1.tgz
+    version: 2.3.1
+  - created: 2018-02-03T14:54:28.053639812-08:00
+    description: A Helm chart for Tweetics - Spark job that parses tweets from Kafka
+      and stores hashtags popularity as text files (to HDFS) or to Cassandra.
+    digest: 5f05f3f0dcd7b2c59ef975fc6ff5879e201dddd427b9e405eb371d189055ede2
+    name: tweetics
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/tweetics-2.3.0.tgz
+    version: 2.3.0
+  - created: 2018-02-03T14:54:28.051192814-08:00
+    description: A Helm chart for Tweetics - Spark job that parses tweets from Kafka
+      and stores hashtags popularity as text files (to HDFS) or to Cassandra.
+    digest: 4c619943873a588764d96d4f7f190c727cf6b4bccc8b66e823060b139afd097e
+    name: tweetics
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/tweetics-2.2.2.tgz
+    version: 2.2.2
+  - created: 2017-10-12T15:09:13.060840809Z
+    description: A Helm chart for Tweetics - Spark job that parses tweets from Kafka
+      and stores hashtags popularity as text files (to HDFS) or to Cassandra.
+    digest: c1dd772a6dfce42b9ed25dc34cd5c109da1c47d76734a679c0e59b5046e83353
+    name: tweetics
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/tweetics-2.2.1.tgz
+    version: 2.2.1
+  - created: 2017-10-10T12:15:54.790581927Z
+    description: A Helm chart for Tweetics - Spark job that parses tweets from Kafka
+      and stores hashtags popularity as text files (to HDFS) or to Cassandra.
+    digest: 93ebb39f8ef80d1616bc0811e12b6a1d8682ce7747dd3947a5952381ececdaa2
+    name: tweetics
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/tweetics-2.2.0.tgz
+    version: 2.2.0
+  - created: 2017-10-04T20:49:23.701442675Z
+    description: A Helm chart for Tweetics - Spark job that parses tweets from Kafka
+      and stores hashtags popularity as text files (to HDFS) or to Cassandra.
+    digest: e7d1b09bfdeb30ff88802952377e9e856321bd4ae567b722af9ef4f408444ece
+    name: tweetics
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/tweetics-2.1.1.tgz
+    version: 2.1.1
+  - created: 2017-09-08T13:02:15.257789347Z
+    description: A Helm chart for Tweetics - Spark job that parses tweets from Kafka
+      and stores hashtags popularity as text files (to HDFS) or to Cassandra.
+    digest: 26628d4c62d9a6b0e82ff17889e6e9a7e5b8de8829904c9b4c82bd62b68062ee
+    name: tweetics
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/tweetics-2.1.0.tgz
+    version: 2.1.0
+  - created: 2017-08-23T11:53:59.17225406Z
+    description: A Helm chart for Tweetics - Spark job that parses tweets from Kafka
+      and stores hashtags popularity as text files (to HDFS) or to Cassandra.
+    digest: fe4cc8082acf41e6b1d3668bbbcea54a6e3a479f140d70d8bc79106b6356751e
+    name: tweetics
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/tweetics-2.0.3.tgz
+    version: 2.0.3
+  - created: 2017-08-28T14:51:02.230430157+03:00
+    description: A Helm chart for Tweetics - Spark job that parses tweets from Kafka
+      and stores hashtags popularity as text files (to HDFS) or to Cassandra.
+    digest: 024e99ed16eafddbe2e45d1e8db430265e9d0b1863bef4a735ab10be1a8933b5
+    name: tweetics
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/tweetics-2.0.2.tgz
+    version: 2.0.2
+  - created: 2017-08-28T14:51:02.228453048+03:00
+    description: A Helm chart for Tweetics - Spark job that parses tweets from Kafka
+      and stores hashtags popularity as text files (to HDFS) or to Cassandra.
+    digest: 6c7eead21d3a3ce4ea2b178fa6ec95147c7e1d6bd8d642b7cd30fc227cca1d7b
+    name: tweetics
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/tweetics-2.0.1.tgz
+    version: 2.0.1
+  - created: 2017-08-28T14:51:02.226511413+03:00
+    description: A Helm chart for Tweetics - Spark job that parses tweets from Kafka
+      and stores hashtags popularity as text files (to HDFS) or to Cassandra.
+    digest: 3c277b63fda518e90de4cf5bb650bccaa056007777ddc9f46c1eaf5914ec22e4
+    name: tweetics
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/tweetics-2.0.0.tgz
+    version: 2.0.0
+  - created: 2018-02-03T14:54:28.049397014-08:00
+    description: A Helm chart for Tweetics - Spark job that parses tweets from Kafka
+      and stores hashtags popularity as text files (to HDFS) or to Cassandra.
+    digest: c1bfe7dc761afea7b02657435693595a1777a608ba1f676724716ed6861226f2
+    name: tweetics
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/tweetics-0.2.0.tgz
+    version: 0.2.0
+  - created: 2018-02-03T14:54:28.047785996-08:00
+    description: A Helm chart for Tweetics - Spark job that parses tweets from Kafka
+      and stores hashtags popularity as text files (to HDFS) or to Cassandra.
+    digest: 48105fef8a28721669ab503a02d3e60a791765c4e8361d2fe32a893c0f9b6d12
+    name: tweetics
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/tweetics-0.1.1.tgz
+    version: 0.1.1
+  - created: 2018-02-03T14:54:28.046212047-08:00
+    description: A Helm chart for Tweetics - Spark job that parses tweets from Kafka
+      and stores hashtags popularity as text files (to HDFS).
+    digest: 5bff30af2a847ab06890ffdf7245e3b020fadf95dd3ab31114130dae9e2c154c
+    name: tweetics
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/tweetics-0.1.0.tgz
+    version: 0.1.0
+  tweeviz:
+  - apiVersion: v1
+    created: 2018-12-13T10:25:59.599005852Z
+    description: A Helm chart for TweeViz - Visualizing stream processed tweets
+    digest: eb4389d018593078e51243363b3630a1200f8424a653482e6963ef4988adcf03
+    icon: https://mirantisworkloads.storage.googleapis.com/icons/twitter.png
+    name: tweeviz
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/tweeviz-2.3.2.tgz
+    version: 2.3.2
+  - apiVersion: v1
+    created: 2018-08-16T12:33:04.236457612Z
+    description: A Helm chart for TweeViz - Visualizing stream processed tweets
+    digest: 653267eb3ae2b3309c06ed70ad7ed26b35d3945f7ad507c6857050beecc54e30
+    icon: https://upload.wikimedia.org/wikipedia/en/9/9f/Twitter_bird_logo_2012.svg
+    name: tweeviz
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/tweeviz-2.3.1.tgz
+    version: 2.3.1
+  - apiVersion: v1
+    created: 2018-08-10T05:49:15.413433062Z
+    description: A Helm chart for TweeViz - Visualizing stream processed tweets
+    digest: 5a3fab686d3e074a9b267e295b630a17cfe1ddd5f3d5113f02068df86eff1313
+    name: tweeviz
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/tweeviz-2.3.0.tgz
+    version: 2.3.0
+  - apiVersion: v1
+    created: 2017-11-16T13:10:02.430597239Z
+    description: A Helm chart for TweeViz - Visualizing stream processed tweets
+    digest: 8a03c73beb29c8ac223e954701564af6b278d4106c6253a8e31d074a0eec600d
+    name: tweeviz
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/tweeviz-2.2.1.tgz
+    version: 2.2.1
+  - apiVersion: v1
+    created: 2018-02-03T14:54:28.061630716-08:00
+    description: A Helm chart for TweeViz - Visualizing stream processed tweets
+    digest: c2eb3718765fc5e65c1fb7708b0027e46c2a1babfd894de1eccaaefd1f05264b
+    name: tweeviz
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/tweeviz-2.2.0.tgz
+    version: 2.2.0
+  - apiVersion: v1
+    created: 2017-10-19T06:59:28.63502511Z
+    description: A Helm chart for TweeViz - Visualizing stream processed tweets
+    digest: cb7db335bcc50774f4c940fcb98e6e778c853f26d582bcebd1005fa4caca0cef
+    name: tweeviz
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/tweeviz-2.1.1.tgz
+    version: 2.1.1
+  - apiVersion: v1
+    created: 2018-02-03T14:54:28.06101949-08:00
+    description: A Helm chart for TweeViz - Visualizing stream processed tweets
+    digest: 9bf132a7e4534df3c40a5832398e216130c9392192a714d65cd4d7d3ac522d69
+    name: tweeviz
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/tweeviz-2.1.0.tgz
+    version: 2.1.0
+  - apiVersion: v1
+    created: 2018-02-03T14:54:28.06039737-08:00
+    description: A Helm chart for TweeViz - Visualizing stream processed tweets
+    digest: 62373f09b0187d9ea0d98552546e49dec3ffdfe067e2aa2ac3544dd6518ad07d
+    name: tweeviz
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/tweeviz-2.0.3.tgz
+    version: 2.0.3
+  - apiVersion: v1
+    created: 2017-10-10T12:15:54.79155719Z
+    description: A Helm chart for TweeViz - Visualizing stream processed tweets
+    digest: cc17ef321c18960d09ac7a498b6a90b46e36ada3ba87a02329dde7c16a23f8eb
+    name: tweeviz
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/tweeviz-2.0.2.tgz
+    version: 2.0.2
+  - apiVersion: v1
+    created: 2017-08-30T13:59:22.589979223Z
+    description: A Helm chart for TweeViz - Visualizing stream processed tweets
+    digest: 99968bf66ad53ce9e4b780e3dbc596e427362208bad98b3e00d1283320553b9c
+    name: tweeviz
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/tweeviz-2.0.1.tgz
+    version: 2.0.1
+  - apiVersion: v1
+    created: 2017-08-28T14:51:02.233594284+03:00
+    description: A Helm chart for TweeViz - Visualizing stream processed tweets
+    digest: b859a59edf6e40a71bbf357c2ab0d23e28f47964e7e7fec33161b6a5df190480
+    name: tweeviz
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/tweeviz-2.0.0.tgz
+    version: 2.0.0
+  - apiVersion: v1
+    created: 2018-02-03T14:54:28.059776594-08:00
+    description: A Helm chart for TweeViz - Visualizing stream processed tweets
+    digest: de53e9930426cbf159697115cf1a3af94fda97d4dbb111b13883422489191022
+    name: tweeviz
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/tweeviz-0.4.1.tgz
+    version: 0.4.1
+  - apiVersion: v1
+    created: 2018-02-03T14:54:28.059172313-08:00
+    description: A Helm chart for TweeViz - Visualizing stream processed tweets
+    digest: 5bfac5c39554578da792d7b9799b6eaa59ba947246a49e434355f505c97f0a9b
+    name: tweeviz
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/tweeviz-0.3.0.tgz
+    version: 0.3.0
+  - apiVersion: v1
+    created: 2018-02-03T14:54:28.058590336-08:00
+    description: A Helm chart for TweeViz - Visualizing stream processed tweets
+    digest: 420cbfd7a593c72ec92605c8bc381174eff9a9d44e909170d88e449e8397e3b1
+    name: tweeviz
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/tweeviz-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v1
+    created: 2018-02-03T14:54:28.05800866-08:00
+    description: A Helm chart for TweeViz - Visualizing stream processed tweets
+    digest: d1432fa6880923622bed722314e29d0e807a8b0b5353971b1557e199b004f9ab
+    name: tweeviz
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/tweeviz-0.1.0.tgz
+    version: 0.1.0
+  tweeviz_api:
+  - apiVersion: v1
+    created: 2018-12-13T10:25:59.60003021Z
+    description: A Helm chart for TweeViz API - Visualizing stream processed tweets
+    digest: 029fd046d74e68384ba7cef3a69f70e855ec84fdec53bd2211660b4026e5b8f2
+    icon: https://mirantisworkloads.storage.googleapis.com/icons/twitter.png
+    name: tweeviz_api
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/tweeviz_api-0.2.2.tgz
+    version: 0.2.2
+  - apiVersion: v1
+    created: 2018-08-16T12:33:04.239367178Z
+    description: A Helm chart for TweeViz API - Visualizing stream processed tweets
+    digest: 4a4b3ef6b0c04a1a99ab05a679dab79136b3ece7fb56e6a74727c7725e00256b
+    icon: https://upload.wikimedia.org/wikipedia/en/9/9f/Twitter_bird_logo_2012.svg
+    name: tweeviz_api
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/tweeviz_api-0.2.1.tgz
+    version: 0.2.1
+  - apiVersion: v1
+    created: 2018-08-10T05:49:15.414955761Z
+    description: A Helm chart for TweeViz API - Visualizing stream processed tweets
+    digest: 58a2d69ab3a4a8f080a1e2f48322c9dcfa5181c563cbaaaeae163c3d16c92fa1
+    name: tweeviz_api
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/tweeviz_api-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v1
+    created: 2017-11-16T13:10:02.431643455Z
+    description: A Helm chart for TweeViz API - Visualizing stream processed tweets
+    digest: 3ddcd430de15eb8b5072011a1b18fceb9ed2c5a1aeb6bf5c49f332bac2dc1c97
+    name: tweeviz_api
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/tweeviz_api-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v1
+    created: 2018-02-03T14:54:28.062858406-08:00
+    description: A Helm chart for TweeViz API - Visualizing stream processed tweets
+    digest: 1146a5ab68fbffdc8afaeb8d5b25f8ac295a90358e2d486185c263aa326c9e39
+    name: tweeviz_api
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/tweeviz_api-0.1.0.tgz
+    version: 0.1.0
+  tweeviz_ui:
+  - apiVersion: v1
+    created: 2018-12-13T10:25:59.601286257Z
+    description: A Helm chart for TweeViz UI - Visualizing stream processed tweets
+    digest: d1a80fe717fd3097e94cfd3badd448151819408ab5c189b2be37d90e531a442b
+    icon: https://mirantisworkloads.storage.googleapis.com/icons/twitter.png
+    name: tweeviz_ui
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/tweeviz_ui-0.2.3.tgz
+    version: 0.2.3
+  - apiVersion: v1
+    created: 2018-08-16T12:33:04.242143725Z
+    description: A Helm chart for TweeViz UI - Visualizing stream processed tweets
+    digest: b35745fb951832061af1948ca1980e74a5c07cdbcba90d781dd753d4cd37f4a6
+    icon: https://upload.wikimedia.org/wikipedia/en/9/9f/Twitter_bird_logo_2012.svg
+    name: tweeviz_ui
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/tweeviz_ui-0.2.2.tgz
+    version: 0.2.2
+  - apiVersion: v1
+    created: 2018-08-10T05:49:15.416825562Z
+    description: A Helm chart for TweeViz UI - Visualizing stream processed tweets
+    digest: bc2d1c5b5625bb876bbb88d443fba2a46c294ca3c3d76b2fa5c33b4db6f0999f
+    name: tweeviz_ui
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/tweeviz_ui-0.2.1.tgz
+    version: 0.2.1
+  - apiVersion: v1
+    created: 2018-02-04T20:00:06.169687102Z
+    description: A Helm chart for TweeViz UI - Visualizing stream processed tweets
+    digest: e809324475c914f67e39e61b9b8d01b1a50b91cf0d73a53d75c275530f6236eb
+    name: tweeviz_ui
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/tweeviz_ui-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v1
+    created: 2017-11-16T13:10:02.433007502Z
+    description: A Helm chart for TweeViz UI - Visualizing stream processed tweets
+    digest: 84c88722420aac0c722e6b359aa9da5c6755ae5d838f5615846fd62a73144d63
+    name: tweeviz_ui
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/tweeviz_ui-0.1.2.tgz
+    version: 0.1.2
+  - apiVersion: v1
+    created: 2018-02-03T14:54:28.06485255-08:00
+    description: A Helm chart for TweeViz UI - Visualizing stream processed tweets
+    digest: 962ff0da98600509ce84e30e877cf006c690ab7fea88283f475fb771b7eacd35
+    name: tweeviz_ui
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/tweeviz_ui-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v1
+    created: 2017-10-19T14:17:43.65286296Z
+    description: A Helm chart for TweeViz UI - Visualizing stream processed tweets
+    digest: 6d1218a8f70adce4acf264e2e534c9c4b22185ac996fc280054e4e3140e51451
+    name: tweeviz_ui
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/tweeviz_ui-0.1.0.tgz
+    version: 0.1.0
+  vernemq:
+  - created: 2018-12-13T10:25:59.601568316Z
+    digest: 6330f86ca535baa2042246c7ffe2dd73e99462ad7df3790ee0c46d765f4f49ed
+    name: vernemq
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/vernemq-1.0.3.tgz
+    version: 1.0.3
+  - created: 2017-10-10T12:15:54.791820307Z
+    digest: 4091a727057562e675f8d0c5a21cdfc424dd4d9e794363add89bada449b5298d
+    name: vernemq
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/vernemq-1.0.2.tgz
+    version: 1.0.2
+  - created: 2017-08-30T13:59:22.590263267Z
+    digest: 02fdb3bedf766aa97a22a0459419c944a690498c182b74ea9fbdda9e78931ce6
+    name: vernemq
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/vernemq-1.0.1.tgz
+    version: 1.0.1
+  - created: 2017-08-28T14:51:02.234609242+03:00
+    digest: 0fb53945732e9491d1e1b6ae519e2ce651d1417b4c06e12744a7a776ff818c66
+    name: vernemq
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/vernemq-1.0.0.tgz
+    version: 1.0.0
+  zeppelin:
+  - appVersion: 0.7.3
+    created: 2018-12-13T10:25:59.602911546Z
+    description: Web-based notebook that enables data-driven, interactive data analytics
+      and collaborative documents with SQL, Scala and more.
+    digest: 89aefc4661797c36bcbdca6e95e2cd3456282b7b812f856cbbcd7197a22c34e8
+    icon: https://zeppelin.apache.org/assets/themes/zeppelin/img/zeppelin_classic_logo.png
+    name: zeppelin
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/zeppelin-1.1.2.tgz
+    version: 1.1.2
+  - created: 2017-10-10T12:15:54.793165478Z
+    description: Web-based notebook that enables data-driven, interactive data analytics
+      and collaborative documents with SQL, Scala and more.
+    digest: c763c778ca870b5390a18fc9e1fc9251a5c64ce6b46db4c4282611885a188ac3
+    name: zeppelin
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/zeppelin-1.1.1.tgz
+    version: 1.1.1
+  - created: 2017-09-12T07:18:23.286521951Z
+    description: Web-based notebook that enables data-driven, interactive data analytics
+      and collaborative documents with SQL, Scala and more.
+    digest: 5d5b2e6ed5e833e2a0e8b29fda7a48ed5958bd10edf533dc444a473ad9b346e4
+    name: zeppelin
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/zeppelin-1.1.0.tgz
+    version: 1.1.0
+  - created: 2017-08-23T11:53:59.175002694Z
+    description: Web-based notebook that enables data-driven, interactive data analytics
+      and collaborative documents with SQL, Scala and more.
+    digest: c1d4ce397a3bb7521f775e3936a8fbba9b3cf8c1c0bebf0b68d8a40225bd50ed
+    name: zeppelin
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/zeppelin-1.0.0.tgz
+    version: 1.0.0
+  zipkin:
+  - appVersion: "1"
+    created: 2018-12-13T10:25:59.604150957Z
+    description: A Helm chart for Zipkin - a distributed tracing system.
+    digest: 602c77b6c997dfd31246be3b01ed618e5ed4fdc2124fd5e1b59b8e9f25bcc803
+    icon: http://zipkin.io/public/img/zipkin-logo-200x119.jpg
+    name: zipkin
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/zipkin-0.6.2.tgz
+    version: 0.6.2
+  - created: 2017-10-10T12:15:54.794251383Z
+    description: A Helm chart for Zipkin - a distributed tracing system.
+    digest: 62ee1f5782d02f4f0334cf1b572559d45caeae80b4ff6dd99b09fdbe4331a64c
+    name: zipkin
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/zipkin-0.6.1.tgz
+    version: 0.6.1
+  - created: 2017-10-10T08:04:49.610884526Z
+    description: A Helm chart for Zipkin - a distributed tracing system.
+    digest: 144b7946c9d0b24ebf05a313fb4160b1e7f85ebccbd6861b527fd1d910f87aed
+    name: zipkin
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/zipkin-0.6.0.tgz
+    version: 0.6.0
+  - created: 2017-09-19T11:54:45.03284606Z
+    description: A Helm chart for Zipkin - a distributed tracing system.
+    digest: 172748f7c254a87d97e30e7c1946393e2347b90afcdf6ee9ddef4d38c29a8422
+    name: zipkin
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/zipkin-0.5.0.tgz
+    version: 0.5.0
+  - created: 2017-09-14T17:58:04.626132023Z
+    description: A Helm chart for Zipkin - a distributed tracing system.
+    digest: c0cf20d79e8340eda4304b5fcb2be977a409d12c9cb50782358275b45bcf38dd
+    name: zipkin
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/zipkin-0.4.0.tgz
+    version: 0.4.0
+  - created: 2017-09-11T18:00:39.870255011Z
+    description: A Helm chart for Zipkin - a distributed tracing system.
+    digest: fd8f2eb6d1b59e9b587abebba985dfb259f557cf772480f6458af1fefd8d7de5
+    name: zipkin
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/zipkin-0.3.0.tgz
+    version: 0.3.0
+  - created: 2017-09-11T17:05:54.807610533Z
+    description: A Helm chart for Zipkin - a distributed tracing system.
+    digest: 0f24835b4da671d78f106b6d038e7e080e360009188c364966249a0510f06194
+    name: zipkin
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/zipkin-0.2.0.tgz
+    version: 0.2.0
+  zookeeper:
+  - appVersion: 3.5.3-beta
+    created: 2018-02-03T14:54:28.068854035-08:00
+    description: ZooKeeper is a centralized service for maintaining configuration
+      information, naming, providing distributed synchronization, and providing group
+      services.
+    digest: 852da7b0985798ed2e866da7a25262a358c8526f0b1d0e83d13a6a1d762eaabd
+    icon: https://zookeeper.apache.org/images/zookeeper_small.gif
+    name: zookeeper
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/zookeeper-1.6.0.tgz
+    version: 1.6.0
+  - created: 2017-09-05T09:07:05.715509466Z
+    description: ZooKeeper is a centralized service for maintaining configuration
+      information, naming, providing distributed synchronization, and providing group
+      services.
+    digest: d46fdc793ace001e44c885847e2de654aec40f19e4f44f5e6e0cd8633e9023d9
+    name: zookeeper
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/zookeeper-1.5.0.tgz
+    version: 1.5.0
+  - created: 2017-09-04T17:44:46.792883693Z
+    description: ZooKeeper is a centralized service for maintaining configuration
+      information, naming, providing distributed synchronization, and providing group
+      services.
+    digest: 617a6bae52de730765e689911732242221d35333e892f9abe11ffdefd48cfffc
+    name: zookeeper
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/zookeeper-1.4.2.tgz
+    version: 1.4.2
+  - created: 2017-08-30T13:59:22.592113036Z
+    description: ZooKeeper is a centralized service for maintaining configuration
+      information, naming, providing distributed synchronization, and providing group
+      services.
+    digest: d533210e15c3dced358482d8d9398fdb6f2554e4b3a7ebc77791427b61685f31
+    name: zookeeper
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/zookeeper-1.4.1.tgz
+    version: 1.4.1
+  - created: 2017-08-28T14:51:02.235994666+03:00
+    description: ZooKeeper is a centralized service for maintaining configuration
+      information, naming, providing distributed synchronization, and providing group
+      services.
+    digest: eccc8bde32eeaf4507c8b4f3e4b0368688087568d7acb0613326c34353232c5d
+    name: zookeeper
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/zookeeper-1.4.0.tgz
+    version: 1.4.0
+  - created: 2018-02-03T14:54:28.068521608-08:00
+    description: ZooKeeper is a centralized service for maintaining configuration
+      information, naming, providing distributed synchronization, and providing group
+      services.
+    digest: 1c42f7df831cdfbc476276ed71bc1ebe7578109499f23abc1f2b873d2bd27412
+    name: zookeeper
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/zookeeper-1.3.0.tgz
+    version: 1.3.0
+  - created: 2018-02-03T14:54:28.068214422-08:00
+    description: ZooKeeper is a centralized service for maintaining configuration
+      information, naming, providing distributed synchronization, and providing group
+      services.
+    digest: 0a6697ffc96ede807d3d730e1acfcf6cb43755053036ef8b91cc80373dcdcd34
+    name: zookeeper
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/zookeeper-1.2.0.tgz
+    version: 1.2.0
+  - created: 2018-02-03T14:54:28.067903667-08:00
+    description: ZooKeeper is a centralized service for maintaining configuration
+      information, naming, providing distributed synchronization, and providing group
+      services.
+    digest: 962b866246e955a9dd9062842ba559e295a8da41f34b7ab1d4a98f5a2afa1ae0
+    name: zookeeper
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/zookeeper-1.1.0.tgz
+    version: 1.1.0
+  - created: 2018-02-03T14:54:28.067541521-08:00
+    description: ZooKeeper is a centralized service for maintaining configuration
+      information, naming, providing distributed synchronization, and providing group
+      services.
+    digest: c130f6a3d0c43f8ce3df1d9f07389d330ee559d1f54cb0e6062f9014fe3706d3
+    name: zookeeper
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/zookeeper-1.0.0.tgz
+    version: 1.0.0
+  - created: 2017-06-08T14:54:17.596949594+03:00
+    description: ZooKeeper is a centralized service for maintaining configuration
+      information, naming, providing distributed synchronization, and providing group
+      services.
+    digest: 5b577779009f9b698670d774d83ca0f46539351fdc0f6e52d89cc2e48171f423
+    home: https://zookeeper.apache.org/
+    icon: https://zookeeper.apache.org/images/zookeeper_small.gif
+    maintainers:
+    - email: apavlov@mirantis.com
+      name: Andrey Pavlov
+    name: zookeeper
+    sources:
+    - https://github.com/apache/zookeeper
+    urls:
+    - https://mirantisworkloads.storage.googleapis.com/zookeeper-0.1.0.tgz
+    version: 0.1.0
+generated: 2018-12-13T10:25:59.552722438Z
